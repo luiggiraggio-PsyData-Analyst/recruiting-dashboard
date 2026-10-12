@@ -1,0 +1,121 @@
+id,item,sub-trait,big-five-trait,reverse
+1,I worry about things.,Anxiety,Neuroticism,
+2,I make friends easily.,Friendliness,Extraversion,
+3,I have a vivid imagination.,Imagination,Openness,
+4,I trust others.,Trust,Agreeableness,
+5,I complete tasks successfully.,Self-Efficacy,Conscientiousness,
+6,I get angry easily.,Anger,Neuroticism,
+7,I love large parties.,Gregariousness,Extraversion,
+8,I believe in the importance of art.,Artistic Interests,Openness,
+9,I use others for my own ends.,Morality,Agreeableness,reverse
+10,I like to tidy up.,Orderliness,Conscientiousness,
+11,I often feel blue.,Depression,Neuroticism,
+12,I take charge.,Assertiveness,Extraversion,
+13,I experience my emotions intensely.,Emotionality,Openness,
+14,I love to help others.,Altruism,Agreeableness,
+15,I keep my promises.,Dutifulness,Conscientiousness,
+16,I find it difficult to approach others.,Self-Consciousness,Neuroticism,
+17,I am always busy.,Activity Level,Extraversion,
+18,I prefer variety to routine.,Adventurousness,Openness,
+19,I love a good fight.,Cooperation,Agreeableness,reverse
+20,I work hard.,Achievement Striving,Conscientiousness,
+21,I go on binges.,Immoderation,Neuroticism,
+22,I love excitement.,Excitement Seeking,Extraversion,
+23,I love to read challenging material.,Intellect,Openness,
+24,I believe that I am better than others.,Modesty,Agreeableness,reverse
+25,I am always prepared.,Self-Discipline,Conscientiousness,
+26,I panic easily.,Vulnerability,Neuroticism,
+27,I radiate joy.,Cheerfulness,Extraversion,
+28,I tend to vote for liberal political candidates.,Liberalism,Openness,
+29,I sympathize with the homeless.,Sympathy,Agreeableness,
+30,I jump into things without thinking.,Cautiousness,Conscientiousness,reverse
+31,I fear for the worst.,Anxiety,Neuroticism,
+32,I feel comfortable around people.,Friendliness,Extraversion,
+33,I enjoy wild flights of fantasy.,Imagination,Openness,
+34,I believe that others have good intentions.,Trust,Agreeableness,
+35,I excel in what I do.,Self-Efficacy,Conscientiousness,
+36,I get irritated easily.,Anger,Neuroticism,
+37,I talk to a lot of different people at parties.,Gregariousness,Extraversion,
+38,I see beauty in things that others might not notice.,Artistic Interests,Openness,
+39,I cheat to get ahead.,Morality,Agreeableness,reverse
+40,I often forget to put things back in their proper place.,Orderliness,Conscientiousness,reverse
+41,I dislike myself.,Depression,Neuroticism,
+42,I try to lead others.,Assertiveness,Extraversion,
+43,I feel others' emotions.,Emotionality,Openness,
+44,I am concerned about others.,Altruism,Agreeableness,
+45,I tell the truth.,Dutifulness,Conscientiousness,
+46,I am afraid to draw attention to myself.,Self-Consciousness,Neuroticism,
+47,I am always on the go.,Activity Level,Extraversion,
+48,I prefer to stick with things that I know.,Adventurousness,Openness,reverse
+49,I yell at people.,Cooperation,Agreeableness,reverse
+50,I do more than what's expected of me.,Achievement Striving,Conscientiousness,
+51,I rarely overindulge.,Immoderation,Neuroticism,reverse
+52,I seek adventure.,Excitement Seeking,Extraversion,
+53,I avoid philosophical discussions.,Intellect,Openness,reverse
+54,I think highly of myself.,Modesty,Agreeableness,reverse
+55,I carry out my plans.,Self-Discipline,Conscientiousness,
+56,I become overwhelmed by events.,Vulnerability,Neuroticism,
+57,I have a lot of fun.,Cheerfulness,Extraversion,
+58,I believe that there is no absolute right or wrong.,Liberalism,Openness,
+59,I feel sympathy for those who are worse off than myself.,Sympathy,Agreeableness,
+60,I make rash decisions.,Cautiousness,Conscientiousness,reverse
+61,I am afraid of many things.,Anxiety,Neuroticism,
+62,I avoid contacts with others.,Friendliness,Extraversion,reverse
+63,I love to daydream.,Imagination,Openness,
+64,I trust what people say.,Trust,Agreeableness,
+65,I handle tasks smoothly.,Self-Efficacy,Conscientiousness,
+66,I lose my temper.,Anger,Neuroticism,
+67,I prefer to be alone.,Gregariousness,Extraversion,reverse
+68,I do not like poetry.,Artistic Interests,Openness,reverse
+69,I take advantage of others.,Morality,Agreeableness,reverse
+70,I leave a mess in my room.,Orderliness,Conscientiousness,reverse
+71,I am often down in the dumps.,Depression,Neuroticism,
+72,I take control of things.,Assertiveness,Extraversion,
+73,I rarely notice my emotional reactions.,Emotionality,Openness,reverse
+74,I am indifferent to the feelings of others.,Altruism,Agreeableness,reverse
+75,I break rules.,Dutifulness,Conscientiousness,reverse
+76,I only feel comfortable with friends.,Self-Consciousness,Neuroticism,
+77,I do a lot in my spare time.,Activity Level,Extraversion,
+78,I dislike changes.,Adventurousness,Openness,reverse
+79,I insult people.,Cooperation,Agreeableness,reverse
+80,I do just enough work to get by.,Achievement Striving,Conscientiousness,reverse
+81,I easily resist temptations.,Immoderation,Neuroticism,reverse
+82,I enjoy being reckless.,Excitement Seeking,Extraversion,
+83,I have difficulty understanding abstract ideas.,Intellect,Openness,reverse
+84,I have a high opinion of myself.,Modesty,Agreeableness,reverse
+85,I waste my time.,Self-Discipline,Conscientiousness,reverse
+86,I feel that I'm unable to deal with things.,Vulnerability,Neuroticism,
+87,I love life.,Cheerfulness,Extraversion,
+88,I tend to vote for conservative political candidates.,Liberalism,Openness,reverse
+89,I am not interested in other people's problems.,Sympathy,Agreeableness,reverse
+90,I rush into things.,Cautiousness,Conscientiousness,reverse
+91,I get stressed out easily.,Anxiety,Neuroticism,
+92,I keep others at a distance.,Friendliness,Extraversion,reverse
+93,I like to get lost in thought.,Imagination,Openness,
+94,I distrust people.,Trust,Agreeableness,reverse
+95,I know how to get things done.,Self-Efficacy,Conscientiousness,
+96,I am not easily annoyed.,Anger,Neuroticism,reverse
+97,I avoid crowds.,Gregariousness,Extraversion,reverse
+98,I do not enjoy going to art museums.,Artistic Interests,Openness,reverse
+99,I obstruct others' plans.,Morality,Agreeableness,reverse
+100,I leave my belongings around.,Orderliness,Conscientiousness,reverse
+101,I feel comfortable with myself.,Depression,Neuroticism,reverse
+102,I wait for others to lead the way.,Assertiveness,Extraversion,reverse
+103,I don't understand people who get emotional.,Emotionality,Openness,reverse
+104,I take no time for others.,Altruism,Agreeableness,reverse
+105,I break my promises.,Dutifulness,Conscientiousness,reverse
+106,I am not bothered by difficult social situations.,Self-Consciousness,Neuroticism,reverse
+107,I like to take it easy.,Activity Level,Extraversion,reverse
+108,I am attached to conventional ways.,Adventurousness,Openness,reverse
+109,I get back at others.,Cooperation,Agreeableness,reverse
+110,I put little time and effort into my work.,Achievement Striving,Conscientiousness,reverse
+111,I am able to control my cravings.,Immoderation,Neuroticism,reverse
+112,I act wild and crazy.,Excitement Seeking,Extraversion,
+113,I am not interested in theoretical discussions.,Intellect,Openness,reverse
+114,I boast about my virtues.,Modesty,Agreeableness,reverse
+115,I have difficulty starting tasks.,Self-Discipline,Conscientiousness,reverse
+116,I remain calm under pressure.,Vulnerability,Neuroticism,reverse
+117,I look at the bright side of life.,Cheerfulness,Extraversion,
+118,I believe that we should be tough on crime.,Liberalism,Openness,reverse
+119,I try not to think about the needy.,Sympathy,Agreeableness,reverse
+120,I act without thinking.,Cautiousness,Conscientiousness,reverse

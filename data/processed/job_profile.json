@@ -1,0 +1,83 @@
+{
+  "role": "Project Manager - Digital Marketing Agency",
+  "holland_code": "ESC",
+  "targets": {
+    "cognitive": {
+      "min_percentile": 55
+    },
+    "personality": {
+      "Neuroticism": [
+        10,
+        40
+      ],
+      "Extraversion": [
+        40,
+        75
+      ],
+      "Openness": [
+        45,
+        80
+      ],
+      "Agreeableness": [
+        45,
+        85
+      ],
+      "Conscientiousness": [
+        65,
+        95
+      ]
+    },
+    "integrity": {
+      "min_percentile": 65
+    },
+    "interests": {
+      "Realistic": 0.15,
+      "Investigative": 0.55,
+      "Artistic": 0.3,
+      "Social": 0.6,
+      "Enterprising": 1.0,
+      "Conventional": 0.8
+    }
+  },
+  "weights": {
+    "cognitive": 0.2,
+    "personality": 0.35,
+    "integrity": 0.2,
+    "interests": 0.15,
+    "cv": 0.1
+  },
+  "cv": {
+    "education_weights": {
+      "Marketing": 30,
+      "Business Administration": 28,
+      "Industrial Engineering": 26,
+      "Advertising": 25,
+      "Communications": 22,
+      "Economics": 20,
+      "Software Engineering": 22,
+      "Psychology": 18,
+      "Design": 15,
+      "Other": 12
+    },
+    "degree_bonus": {
+      "Bachelor": 0,
+      "Master": 5,
+      "MBA": 6,
+      "PhD": 7
+    },
+    "certifications": [
+      "PMP",
+      "PRINCE2",
+      "Certified ScrumMaster",
+      "SAFe Agilist",
+      "Google Analytics",
+      "Meta Certified",
+      "HubSpot Inbound",
+      "Lean Six Sigma"
+    ],
+    "experience_ideal": [
+      4,
+      12
+    ]
+  }
+}

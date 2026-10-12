@@ -1,0 +1,31 @@
+candidate_id,name,city,education_field,degree,years_experience,persona,previous_roles,certifications,ac_Stakeholder_Communication,ac_Planning_and_Organization,ac_Team_Leadership,ac_Problem_Solving,ac_Financial_Awareness,ac_Client_Orientation,ac_Adaptability,theta_cog
+PM-001,Mariana Romero,Guadalajara,Communications,Bachelor,12.3,typical,E-commerce Manager; Paid Media Specialist,Certified ScrumMaster; Google Analytics; Lean Six Sigma; Meta Certified,,,,,,,,0.35711442051518033
+PM-002,Natalia Perez,Quito,Other,MBA,9.3,typical,Campaign Coordinator; E-commerce Manager,HubSpot Inbound,,,,,,,,-0.8203302631656347
+PM-003,Ricardo Salazar,Quito,Design,Bachelor,5.1,weak,Senior Account Executive; Campaign Coordinator,None,,,,,,,,-1.6215567716672592
+PM-004,Mateo Sanchez,Quito,Industrial Engineering,Master,8.9,typical,Marketing Analyst; Product Owner,None,,,,,,,,-1.3349406121469622
+PM-005,Pablo Castillo,Montevideo,Psychology,Master,1.5,strong,Campaign Coordinator; Digital Account Manager,None,,,,,,,,0.11085265919239673
+PM-006,Regina Gutierrez,Montevideo,Economics,Bachelor,10.1,strong,Marketing Coordinator; Marketing Analyst,Meta Certified,,,,,,,,0.3136138390973809
+PM-007,Antonia Flores,Quito,Advertising,PhD,13.9,typical,Senior Account Executive; Brand Manager,Certified ScrumMaster; Meta Certified,,,,,,,,-0.374389126505418
+PM-008,Emilio Martinez,Madrid,Software Engineering,PhD,7.2,typical,Junior Project Manager; Customer Success Manager,Certified ScrumMaster; PMP,,,,,,,,0.11050495229883636
+PM-009,Clara Romero,Buenos Aires,Psychology,Bachelor,1.0,weak,E-commerce Manager; Senior Account Executive,Certified ScrumMaster; Google Analytics,,,,,,,,-1.487203253288084
+PM-010,Isabella Rodriguez,Medellin,Design,Bachelor,1.0,weak,Brand Manager; Paid Media Specialist,Google Analytics; HubSpot Inbound,,,,,,,,-0.8918183015276198
+PM-011,Isabella Fernandez,Medellin,Economics,Bachelor,6.1,strong,Campaign Coordinator; Marketing Coordinator,None,,,,,,,,0.81918978613525
+PM-012,Joaquin Salazar,Guadalajara,Psychology,MBA,13.7,typical,SEO Specialist; Senior Account Executive,None,,,,,,,,0.9547251791722203
+PM-013,Fernanda Aguilar,Quito,Communications,Bachelor,7.5,strong,Junior Project Manager; Marketing Coordinator,Lean Six Sigma; Meta Certified; PRINCE2,,,,,,,,1.2730504066429251
+PM-014,Bruno Nunez,Montevideo,Other,Bachelor,5.1,strong,E-commerce Manager; Customer Success Manager,None,,,,,,,,2.051490967839752
+PM-015,Bruno Castillo,Medellin,Design,MBA,5.6,strong,Customer Success Manager; Marketing Coordinator,Google Analytics,,,,,,,,0.4695435286365012
+PM-016,Pablo Flores,Panama City,Industrial Engineering,Bachelor,2.2,typical,Marketing Coordinator; SEO Specialist,Certified ScrumMaster; SAFe Agilist,,,,,,,,0.21444096602313786
+PM-017,Alejandra Perez,Sevilla,Industrial Engineering,Bachelor,6.2,strong,Product Owner; Brand Manager,None,,,,,,,,2.0613202609732424
+PM-018,Carolina Mendoza,Mexico City,Business Administration,Bachelor,1.9,weak,Digital Account Manager; Brand Manager,Google Analytics; PMP,,,,,,,,-0.1797950798657984
+PM-019,Diego Morales,Santiago,Business Administration,Bachelor,9.0,typical,Marketing Coordinator; Paid Media Specialist,None,,,,,,,,-0.223055219227806
+PM-020,Ricardo Flores,Montevideo,Psychology,MBA,15.1,typical,E-commerce Manager; Junior Project Manager,Google Analytics; Meta Certified,,,,,,,,0.3994291512672963
+PM-021,Valentina Flores,Quito,Psychology,Bachelor,8.1,weak,Senior Account Executive; Junior Project Manager,Certified ScrumMaster; Google Analytics; PMP,,,,,,,,-0.7121045931110104
+PM-022,Regina Romero,Medellin,Other,Master,5.4,typical,Brand Manager; Digital Account Manager,Certified ScrumMaster; Meta Certified; PMP,,,,,,,,-0.4436013691634674
+PM-023,Gabriela Perez,Buenos Aires,Software Engineering,Bachelor,3.0,strong,Campaign Coordinator; Brand Manager,Certified ScrumMaster; Google Analytics; HubSpot Inbound; SAFe Agilist,,,,,,,,1.7795303127436646
+PM-024,Antonia Salazar,Lima,Design,Bachelor,1.9,weak,Content Lead; Digital Account Manager,Certified ScrumMaster; Lean Six Sigma,,,,,,,,-0.06545175016723198
+PM-025,Ivan Ortiz,Panama City,Advertising,MBA,5.2,typical,Digital Account Manager; Campaign Coordinator,Certified ScrumMaster,,,,,,,,-1.3226821045969752
+PM-026,Emilio Fernandez,Mexico City,Design,MBA,11.5,typical,Product Owner; E-commerce Manager,Google Analytics; SAFe Agilist,,,,,,,,-0.012874286662298062
+PM-027,Santiago Ortiz,Valencia,Industrial Engineering,PhD,8.0,typical,Digital Account Manager; E-commerce Manager,Google Analytics; Meta Certified,,,,,,,,0.907169637252529
+PM-028,Mateo Morales,Guadalajara,Psychology,Bachelor,15.5,typical,Campaign Coordinator; Product Owner,Certified ScrumMaster; PRINCE2,,,,,,,,0.5099443944369151
+PM-029,Ricardo Perez,Madrid,Advertising,Bachelor,1.0,weak,E-commerce Manager; Content Lead,Lean Six Sigma,,,,,,,,0.34982139019488845
+PM-030,Nicolas Gomez,Buenos Aires,Psychology,Master,10.8,strong,Senior Account Executive; E-commerce Manager,Certified ScrumMaster; HubSpot Inbound; PMP,,,,,,,,2.274738185666994

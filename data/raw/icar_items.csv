@@ -1,0 +1,17 @@
+item_id,item_type,discrimination_a,difficulty_b,stem_summary
+ICAR01,Matrix Reasoning,1.12,-1.40,Select the figure completing the 3x3 matrix pattern.
+ICAR02,Matrix Reasoning,1.30,-0.80,Select the figure completing the 3x3 matrix pattern.
+ICAR03,Matrix Reasoning,1.05,-0.20,Select the figure completing the 3x3 matrix pattern.
+ICAR04,Matrix Reasoning,1.22,0.45,Select the figure completing the 3x3 matrix pattern.
+ICAR05,Letter & Number Series,1.18,-1.10,Extend the letter and number sequence.
+ICAR06,Letter & Number Series,1.35,-0.60,Extend the letter and number sequence.
+ICAR07,Letter & Number Series,1.10,0.25,Extend the letter and number sequence.
+ICAR08,Letter & Number Series,1.25,0.90,Extend the letter and number sequence.
+ICAR09,Verbal Reasoning,0.95,-0.75,Answer the verbal analogy mixed with letters and numbers.
+ICAR10,Verbal Reasoning,1.08,-0.15,Answer the verbal analogy mixed with letters and numbers.
+ICAR11,Verbal Reasoning,0.88,0.55,Answer the verbal analogy mixed with letters and numbers.
+ICAR12,Verbal Reasoning,1.15,1.20,Answer the verbal analogy mixed with letters and numbers.
+ICAR13,3D Rotation,1.20,-0.95,Select the correctly rotated 3D object.
+ICAR14,3D Rotation,1.02,-0.30,Select the correctly rotated 3D object.
+ICAR15,3D Rotation,1.28,0.40,Select the correctly rotated 3D object.
+ICAR16,3D Rotation,1.10,1.05,Select the correctly rotated 3D object.

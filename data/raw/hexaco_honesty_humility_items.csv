@@ -1,0 +1,11 @@
+item_id,facet,keyed,item_text
+H01,Sincerity,positive,Don't pretend to be more than I am.
+H02,Sincerity,negative,Use flattery to get ahead.
+H03,Sincerity,negative,Tell other people what they want to hear so that they will do what I want them to do.
+H04,Fairness,positive,Would never cheat on my taxes.
+H05,Fairness,negative,Cheat to get ahead.
+H06,Fairness,negative,Admire a really clever scam.
+H07,Greed Avoidance,positive,Would not enjoy being a famous celebrity.
+H08,Greed Avoidance,negative,Love luxury.
+H09,Modesty,positive,Am just an ordinary person.
+H10,Modesty,negative,Believe that I am better than others.

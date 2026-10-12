@@ -1,0 +1,901 @@
+candidate_id,domain,facet,facet_score,facet_pct,facet_label
+PM-001,Agreeableness,Altruism,12.0,55.2,High
+PM-001,Agreeableness,Cooperation,12.0,58.6,High
+PM-001,Agreeableness,Modesty,11.0,44.8,Medium
+PM-001,Agreeableness,Morality,11.0,62.1,High
+PM-001,Agreeableness,Sympathy,14.0,94.8,Medium
+PM-001,Agreeableness,Trust,11.0,15.5,Low
+PM-001,Conscientiousness,Achievement Striving,12.0,58.6,Medium
+PM-001,Conscientiousness,Cautiousness,11.0,79.3,High
+PM-001,Conscientiousness,Dutifulness,13.0,77.6,High
+PM-001,Conscientiousness,Orderliness,12.0,74.1,High
+PM-001,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-001,Conscientiousness,Self-Efficacy,13.0,25.9,Low
+PM-001,Extraversion,Activity Level,12.0,22.4,Low
+PM-001,Extraversion,Assertiveness,10.0,3.4,Low
+PM-001,Extraversion,Cheerfulness,12.0,20.7,Low
+PM-001,Extraversion,Excitement Seeking,11.0,22.4,Low
+PM-001,Extraversion,Friendliness,10.0,5.2,Low
+PM-001,Extraversion,Gregariousness,11.0,24.1,Low
+PM-001,Neuroticism,Anger,14.0,91.4,Low
+PM-001,Neuroticism,Anxiety,14.0,79.3,Low
+PM-001,Neuroticism,Depression,14.0,89.7,Low
+PM-001,Neuroticism,Immoderation,10.0,13.8,High
+PM-001,Neuroticism,Self-Consciousness,15.0,100.0,Low
+PM-001,Neuroticism,Vulnerability,12.0,56.9,Low
+PM-001,Openness,Adventurousness,11.0,50.0,High
+PM-001,Openness,Artistic Interests,12.0,43.1,Medium
+PM-001,Openness,Emotionality,12.0,41.4,Medium
+PM-001,Openness,Imagination,14.0,63.8,High
+PM-001,Openness,Intellect,12.0,55.2,High
+PM-001,Openness,Liberalism,11.0,6.9,Low
+PM-002,Agreeableness,Altruism,14.0,96.6,Medium
+PM-002,Agreeableness,Cooperation,14.0,84.5,High
+PM-002,Agreeableness,Modesty,12.0,65.5,High
+PM-002,Agreeableness,Morality,10.0,39.7,Medium
+PM-002,Agreeableness,Sympathy,12.0,55.2,High
+PM-002,Agreeableness,Trust,10.0,3.4,Low
+PM-002,Conscientiousness,Achievement Striving,12.0,58.6,Medium
+PM-002,Conscientiousness,Cautiousness,8.0,32.8,Low
+PM-002,Conscientiousness,Dutifulness,14.0,94.8,High
+PM-002,Conscientiousness,Orderliness,8.0,1.7,Low
+PM-002,Conscientiousness,Self-Discipline,13.0,84.5,High
+PM-002,Conscientiousness,Self-Efficacy,18.0,91.4,High
+PM-002,Extraversion,Activity Level,13.0,51.7,High
+PM-002,Extraversion,Assertiveness,13.0,63.8,High
+PM-002,Extraversion,Cheerfulness,12.0,20.7,Low
+PM-002,Extraversion,Excitement Seeking,12.0,37.9,Medium
+PM-002,Extraversion,Friendliness,11.0,25.9,Medium
+PM-002,Extraversion,Gregariousness,14.0,91.4,Low
+PM-002,Neuroticism,Anger,11.0,34.5,High
+PM-002,Neuroticism,Anxiety,8.0,6.9,Medium
+PM-002,Neuroticism,Depression,11.0,34.5,High
+PM-002,Neuroticism,Immoderation,14.0,75.9,Low
+PM-002,Neuroticism,Self-Consciousness,11.0,29.3,High
+PM-002,Neuroticism,Vulnerability,10.0,15.5,High
+PM-002,Openness,Adventurousness,11.0,50.0,High
+PM-002,Openness,Artistic Interests,12.0,43.1,Medium
+PM-002,Openness,Emotionality,12.0,41.4,Medium
+PM-002,Openness,Imagination,14.0,63.8,High
+PM-002,Openness,Intellect,12.0,55.2,High
+PM-002,Openness,Liberalism,12.0,31.0,Medium
+PM-003,Agreeableness,Altruism,9.0,0.0,Low
+PM-003,Agreeableness,Cooperation,6.0,0.0,Low
+PM-003,Agreeableness,Modesty,12.0,65.5,High
+PM-003,Agreeableness,Morality,5.0,1.7,Low
+PM-003,Agreeableness,Sympathy,13.0,82.8,High
+PM-003,Agreeableness,Trust,12.0,39.7,Medium
+PM-003,Conscientiousness,Achievement Striving,9.0,5.2,Low
+PM-003,Conscientiousness,Cautiousness,12.0,89.7,High
+PM-003,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-003,Conscientiousness,Orderliness,12.0,74.1,High
+PM-003,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-003,Conscientiousness,Self-Efficacy,14.0,44.8,Low
+PM-003,Extraversion,Activity Level,11.0,10.3,Low
+PM-003,Extraversion,Assertiveness,12.0,34.5,Medium
+PM-003,Extraversion,Cheerfulness,8.0,1.7,Low
+PM-003,Extraversion,Excitement Seeking,8.0,3.4,Low
+PM-003,Extraversion,Friendliness,12.0,51.7,High
+PM-003,Extraversion,Gregariousness,14.0,91.4,Low
+PM-003,Neuroticism,Anger,14.0,91.4,Low
+PM-003,Neuroticism,Anxiety,14.0,79.3,Low
+PM-003,Neuroticism,Depression,14.0,89.7,Low
+PM-003,Neuroticism,Immoderation,12.0,48.3,Medium
+PM-003,Neuroticism,Self-Consciousness,14.0,91.4,Low
+PM-003,Neuroticism,Vulnerability,17.0,100.0,Low
+PM-003,Openness,Adventurousness,12.0,75.9,High
+PM-003,Openness,Artistic Interests,12.0,43.1,Medium
+PM-003,Openness,Emotionality,13.0,77.6,High
+PM-003,Openness,Imagination,11.0,10.3,Low
+PM-003,Openness,Intellect,10.0,10.3,Low
+PM-003,Openness,Liberalism,10.0,0.0,Low
+PM-004,Agreeableness,Altruism,10.0,3.4,Low
+PM-004,Agreeableness,Cooperation,14.0,84.5,High
+PM-004,Agreeableness,Modesty,14.0,91.4,Medium
+PM-004,Agreeableness,Morality,12.0,77.6,High
+PM-004,Agreeableness,Sympathy,13.0,82.8,High
+PM-004,Agreeableness,Trust,13.0,67.2,High
+PM-004,Conscientiousness,Achievement Striving,10.0,13.8,Low
+PM-004,Conscientiousness,Cautiousness,6.0,10.3,Low
+PM-004,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-004,Conscientiousness,Orderliness,12.0,74.1,High
+PM-004,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-004,Conscientiousness,Self-Efficacy,15.0,60.3,Medium
+PM-004,Extraversion,Activity Level,12.0,22.4,Low
+PM-004,Extraversion,Assertiveness,12.0,34.5,Medium
+PM-004,Extraversion,Cheerfulness,14.0,53.4,High
+PM-004,Extraversion,Excitement Seeking,12.0,37.9,Medium
+PM-004,Extraversion,Friendliness,11.0,25.9,Medium
+PM-004,Extraversion,Gregariousness,14.0,91.4,Low
+PM-004,Neuroticism,Anger,10.0,12.1,High
+PM-004,Neuroticism,Anxiety,10.0,29.3,High
+PM-004,Neuroticism,Depression,10.0,20.7,High
+PM-004,Neuroticism,Immoderation,10.0,13.8,High
+PM-004,Neuroticism,Self-Consciousness,13.0,74.1,Low
+PM-004,Neuroticism,Vulnerability,12.0,56.9,Low
+PM-004,Openness,Adventurousness,11.0,50.0,High
+PM-004,Openness,Artistic Interests,14.0,100.0,Low
+PM-004,Openness,Emotionality,12.0,41.4,Medium
+PM-004,Openness,Imagination,16.0,93.1,Medium
+PM-004,Openness,Intellect,12.0,55.2,High
+PM-004,Openness,Liberalism,13.0,72.4,High
+PM-005,Agreeableness,Altruism,12.0,55.2,High
+PM-005,Agreeableness,Cooperation,11.0,44.8,Medium
+PM-005,Agreeableness,Modesty,11.0,44.8,Medium
+PM-005,Agreeableness,Morality,10.0,39.7,Medium
+PM-005,Agreeableness,Sympathy,12.0,55.2,High
+PM-005,Agreeableness,Trust,12.0,39.7,Medium
+PM-005,Conscientiousness,Achievement Striving,12.0,58.6,Medium
+PM-005,Conscientiousness,Cautiousness,4.0,1.7,Low
+PM-005,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-005,Conscientiousness,Orderliness,9.0,12.1,Low
+PM-005,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-005,Conscientiousness,Self-Efficacy,16.0,72.4,High
+PM-005,Extraversion,Activity Level,13.0,51.7,High
+PM-005,Extraversion,Assertiveness,13.0,63.8,High
+PM-005,Extraversion,Cheerfulness,17.0,91.4,Low
+PM-005,Extraversion,Excitement Seeking,18.0,96.6,Low
+PM-005,Extraversion,Friendliness,12.0,51.7,High
+PM-005,Extraversion,Gregariousness,14.0,91.4,Low
+PM-005,Neuroticism,Anger,12.0,62.1,Low
+PM-005,Neuroticism,Anxiety,12.0,50.0,Medium
+PM-005,Neuroticism,Depression,9.0,8.6,Medium
+PM-005,Neuroticism,Immoderation,15.0,91.4,Low
+PM-005,Neuroticism,Self-Consciousness,9.0,3.4,Medium
+PM-005,Neuroticism,Vulnerability,9.0,3.4,Medium
+PM-005,Openness,Adventurousness,11.0,50.0,High
+PM-005,Openness,Artistic Interests,13.0,84.5,Medium
+PM-005,Openness,Emotionality,11.0,10.3,Low
+PM-005,Openness,Imagination,16.0,93.1,Medium
+PM-005,Openness,Intellect,10.0,10.3,Low
+PM-005,Openness,Liberalism,13.0,72.4,High
+PM-006,Agreeableness,Altruism,12.0,55.2,High
+PM-006,Agreeableness,Cooperation,10.0,24.1,Low
+PM-006,Agreeableness,Modesty,11.0,44.8,Medium
+PM-006,Agreeableness,Morality,11.0,62.1,High
+PM-006,Agreeableness,Sympathy,13.0,82.8,High
+PM-006,Agreeableness,Trust,13.0,67.2,High
+PM-006,Conscientiousness,Achievement Striving,14.0,98.3,Medium
+PM-006,Conscientiousness,Cautiousness,10.0,65.5,High
+PM-006,Conscientiousness,Dutifulness,13.0,77.6,High
+PM-006,Conscientiousness,Orderliness,11.0,53.4,Medium
+PM-006,Conscientiousness,Self-Discipline,13.0,84.5,High
+PM-006,Conscientiousness,Self-Efficacy,13.0,25.9,Low
+PM-006,Extraversion,Activity Level,11.0,10.3,Low
+PM-006,Extraversion,Assertiveness,11.0,15.5,Low
+PM-006,Extraversion,Cheerfulness,12.0,20.7,Low
+PM-006,Extraversion,Excitement Seeking,15.0,79.3,Medium
+PM-006,Extraversion,Friendliness,11.0,25.9,Medium
+PM-006,Extraversion,Gregariousness,11.0,24.1,Low
+PM-006,Neuroticism,Anger,11.0,34.5,High
+PM-006,Neuroticism,Anxiety,12.0,50.0,Medium
+PM-006,Neuroticism,Depression,11.0,34.5,High
+PM-006,Neuroticism,Immoderation,11.0,29.3,High
+PM-006,Neuroticism,Self-Consciousness,9.0,3.4,Medium
+PM-006,Neuroticism,Vulnerability,13.0,79.3,Low
+PM-006,Openness,Adventurousness,10.0,20.7,Low
+PM-006,Openness,Artistic Interests,12.0,43.1,Medium
+PM-006,Openness,Emotionality,13.0,77.6,High
+PM-006,Openness,Imagination,17.0,100.0,Low
+PM-006,Openness,Intellect,11.0,27.6,Low
+PM-006,Openness,Liberalism,12.0,31.0,Medium
+PM-007,Agreeableness,Altruism,11.0,17.2,Low
+PM-007,Agreeableness,Cooperation,12.0,58.6,High
+PM-007,Agreeableness,Modesty,12.0,65.5,High
+PM-007,Agreeableness,Morality,10.0,39.7,Medium
+PM-007,Agreeableness,Sympathy,12.0,55.2,High
+PM-007,Agreeableness,Trust,9.0,0.0,Low
+PM-007,Conscientiousness,Achievement Striving,13.0,82.8,High
+PM-007,Conscientiousness,Cautiousness,8.0,32.8,Low
+PM-007,Conscientiousness,Dutifulness,11.0,13.8,Low
+PM-007,Conscientiousness,Orderliness,8.0,1.7,Low
+PM-007,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-007,Conscientiousness,Self-Efficacy,20.0,100.0,Medium
+PM-007,Extraversion,Activity Level,14.0,86.2,Medium
+PM-007,Extraversion,Assertiveness,16.0,100.0,Low
+PM-007,Extraversion,Cheerfulness,17.0,91.4,Low
+PM-007,Extraversion,Excitement Seeking,16.0,91.4,Low
+PM-007,Extraversion,Friendliness,11.0,25.9,Medium
+PM-007,Extraversion,Gregariousness,12.0,51.7,High
+PM-007,Neuroticism,Anger,10.0,12.1,High
+PM-007,Neuroticism,Anxiety,8.0,6.9,Medium
+PM-007,Neuroticism,Depression,11.0,34.5,High
+PM-007,Neuroticism,Immoderation,15.0,91.4,Low
+PM-007,Neuroticism,Self-Consciousness,13.0,74.1,Low
+PM-007,Neuroticism,Vulnerability,13.0,79.3,Low
+PM-007,Openness,Adventurousness,11.0,50.0,High
+PM-007,Openness,Artistic Interests,11.0,8.6,Low
+PM-007,Openness,Emotionality,13.0,77.6,High
+PM-007,Openness,Imagination,12.0,31.0,Medium
+PM-007,Openness,Intellect,11.0,27.6,Low
+PM-007,Openness,Liberalism,11.0,6.9,Low
+PM-008,Agreeableness,Altruism,14.0,96.6,Medium
+PM-008,Agreeableness,Cooperation,14.0,84.5,High
+PM-008,Agreeableness,Modesty,10.0,27.6,Low
+PM-008,Agreeableness,Morality,12.0,77.6,High
+PM-008,Agreeableness,Sympathy,13.0,82.8,High
+PM-008,Agreeableness,Trust,11.0,15.5,Low
+PM-008,Conscientiousness,Achievement Striving,11.0,32.8,Low
+PM-008,Conscientiousness,Cautiousness,13.0,96.6,Medium
+PM-008,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-008,Conscientiousness,Orderliness,11.0,53.4,Medium
+PM-008,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-008,Conscientiousness,Self-Efficacy,16.0,72.4,High
+PM-008,Extraversion,Activity Level,14.0,86.2,Medium
+PM-008,Extraversion,Assertiveness,12.0,34.5,Medium
+PM-008,Extraversion,Cheerfulness,12.0,20.7,Low
+PM-008,Extraversion,Excitement Seeking,11.0,22.4,Low
+PM-008,Extraversion,Friendliness,13.0,79.3,Medium
+PM-008,Extraversion,Gregariousness,15.0,100.0,Low
+PM-008,Neuroticism,Anger,11.0,34.5,High
+PM-008,Neuroticism,Anxiety,12.0,50.0,Medium
+PM-008,Neuroticism,Depression,10.0,20.7,High
+PM-008,Neuroticism,Immoderation,14.0,75.9,Low
+PM-008,Neuroticism,Self-Consciousness,12.0,51.7,Medium
+PM-008,Neuroticism,Vulnerability,12.0,56.9,Low
+PM-008,Openness,Adventurousness,14.0,93.1,Medium
+PM-008,Openness,Artistic Interests,12.0,43.1,Medium
+PM-008,Openness,Emotionality,14.0,96.6,Low
+PM-008,Openness,Imagination,14.0,63.8,High
+PM-008,Openness,Intellect,12.0,55.2,High
+PM-008,Openness,Liberalism,13.0,72.4,High
+PM-009,Agreeableness,Altruism,12.0,55.2,High
+PM-009,Agreeableness,Cooperation,11.0,44.8,Medium
+PM-009,Agreeableness,Modesty,9.0,19.0,Low
+PM-009,Agreeableness,Morality,10.0,39.7,Medium
+PM-009,Agreeableness,Sympathy,11.0,19.0,Low
+PM-009,Agreeableness,Trust,13.0,67.2,High
+PM-009,Conscientiousness,Achievement Striving,14.0,98.3,Medium
+PM-009,Conscientiousness,Cautiousness,12.0,89.7,High
+PM-009,Conscientiousness,Dutifulness,10.0,0.0,Low
+PM-009,Conscientiousness,Orderliness,13.0,93.1,High
+PM-009,Conscientiousness,Self-Discipline,13.0,84.5,High
+PM-009,Conscientiousness,Self-Efficacy,10.0,3.4,Low
+PM-009,Extraversion,Activity Level,14.0,86.2,Medium
+PM-009,Extraversion,Assertiveness,14.0,87.9,Medium
+PM-009,Extraversion,Cheerfulness,15.0,69.0,High
+PM-009,Extraversion,Excitement Seeking,15.0,79.3,Medium
+PM-009,Extraversion,Friendliness,11.0,25.9,Medium
+PM-009,Extraversion,Gregariousness,13.0,75.9,Medium
+PM-009,Neuroticism,Anger,17.0,100.0,Low
+PM-009,Neuroticism,Anxiety,17.0,100.0,Low
+PM-009,Neuroticism,Depression,15.0,100.0,Low
+PM-009,Neuroticism,Immoderation,10.0,13.8,High
+PM-009,Neuroticism,Self-Consciousness,14.0,91.4,Low
+PM-009,Neuroticism,Vulnerability,15.0,96.6,Low
+PM-009,Openness,Adventurousness,12.0,75.9,High
+PM-009,Openness,Artistic Interests,11.0,8.6,Low
+PM-009,Openness,Emotionality,13.0,77.6,High
+PM-009,Openness,Imagination,10.0,3.4,Low
+PM-009,Openness,Intellect,11.0,27.6,Low
+PM-009,Openness,Liberalism,13.0,72.4,High
+PM-010,Agreeableness,Altruism,12.0,55.2,High
+PM-010,Agreeableness,Cooperation,16.0,100.0,Medium
+PM-010,Agreeableness,Modesty,13.0,81.0,High
+PM-010,Agreeableness,Morality,15.0,100.0,Medium
+PM-010,Agreeableness,Sympathy,13.0,82.8,High
+PM-010,Agreeableness,Trust,12.0,39.7,Medium
+PM-010,Conscientiousness,Achievement Striving,13.0,82.8,High
+PM-010,Conscientiousness,Cautiousness,9.0,48.3,Low
+PM-010,Conscientiousness,Dutifulness,11.0,13.8,Low
+PM-010,Conscientiousness,Orderliness,10.0,31.0,Low
+PM-010,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-010,Conscientiousness,Self-Efficacy,15.0,60.3,Medium
+PM-010,Extraversion,Activity Level,14.0,86.2,Medium
+PM-010,Extraversion,Assertiveness,13.0,63.8,High
+PM-010,Extraversion,Cheerfulness,15.0,69.0,High
+PM-010,Extraversion,Excitement Seeking,12.0,37.9,Medium
+PM-010,Extraversion,Friendliness,12.0,51.7,High
+PM-010,Extraversion,Gregariousness,13.0,75.9,Medium
+PM-010,Neuroticism,Anger,13.0,81.0,Low
+PM-010,Neuroticism,Anxiety,16.0,96.6,Low
+PM-010,Neuroticism,Depression,13.0,70.7,Low
+PM-010,Neuroticism,Immoderation,10.0,13.8,High
+PM-010,Neuroticism,Self-Consciousness,14.0,91.4,Low
+PM-010,Neuroticism,Vulnerability,13.0,79.3,Low
+PM-010,Openness,Adventurousness,14.0,93.1,Medium
+PM-010,Openness,Artistic Interests,12.0,43.1,Medium
+PM-010,Openness,Emotionality,14.0,96.6,Low
+PM-010,Openness,Imagination,12.0,31.0,Medium
+PM-010,Openness,Intellect,13.0,86.2,Medium
+PM-010,Openness,Liberalism,13.0,72.4,High
+PM-011,Agreeableness,Altruism,11.0,17.2,Low
+PM-011,Agreeableness,Cooperation,11.0,44.8,Medium
+PM-011,Agreeableness,Modesty,12.0,65.5,High
+PM-011,Agreeableness,Morality,9.0,17.2,Low
+PM-011,Agreeableness,Sympathy,10.0,0.0,Low
+PM-011,Agreeableness,Trust,14.0,87.9,Medium
+PM-011,Conscientiousness,Achievement Striving,11.0,32.8,Low
+PM-011,Conscientiousness,Cautiousness,6.0,10.3,Low
+PM-011,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-011,Conscientiousness,Orderliness,11.0,53.4,Medium
+PM-011,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-011,Conscientiousness,Self-Efficacy,17.0,82.8,High
+PM-011,Extraversion,Activity Level,15.0,100.0,Low
+PM-011,Extraversion,Assertiveness,13.0,63.8,High
+PM-011,Extraversion,Cheerfulness,14.0,53.4,High
+PM-011,Extraversion,Excitement Seeking,13.0,53.4,High
+PM-011,Extraversion,Friendliness,12.0,51.7,High
+PM-011,Extraversion,Gregariousness,11.0,24.1,Low
+PM-011,Neuroticism,Anger,10.0,12.1,High
+PM-011,Neuroticism,Anxiety,8.0,6.9,Medium
+PM-011,Neuroticism,Depression,10.0,20.7,High
+PM-011,Neuroticism,Immoderation,13.0,63.8,Low
+PM-011,Neuroticism,Self-Consciousness,11.0,29.3,High
+PM-011,Neuroticism,Vulnerability,10.0,15.5,High
+PM-011,Openness,Adventurousness,10.0,20.7,Low
+PM-011,Openness,Artistic Interests,12.0,43.1,Medium
+PM-011,Openness,Emotionality,13.0,77.6,High
+PM-011,Openness,Imagination,12.0,31.0,Medium
+PM-011,Openness,Intellect,13.0,86.2,Medium
+PM-011,Openness,Liberalism,13.0,72.4,High
+PM-012,Agreeableness,Altruism,13.0,86.2,Medium
+PM-012,Agreeableness,Cooperation,14.0,84.5,High
+PM-012,Agreeableness,Modesty,13.0,81.0,High
+PM-012,Agreeableness,Morality,13.0,89.7,Medium
+PM-012,Agreeableness,Sympathy,12.0,55.2,High
+PM-012,Agreeableness,Trust,11.0,15.5,Low
+PM-012,Conscientiousness,Achievement Striving,11.0,32.8,Low
+PM-012,Conscientiousness,Cautiousness,10.0,65.5,High
+PM-012,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-012,Conscientiousness,Orderliness,13.0,93.1,High
+PM-012,Conscientiousness,Self-Discipline,11.0,5.2,Low
+PM-012,Conscientiousness,Self-Efficacy,13.0,25.9,Low
+PM-012,Extraversion,Activity Level,13.0,51.7,High
+PM-012,Extraversion,Assertiveness,13.0,63.8,High
+PM-012,Extraversion,Cheerfulness,15.0,69.0,High
+PM-012,Extraversion,Excitement Seeking,12.0,37.9,Medium
+PM-012,Extraversion,Friendliness,14.0,98.3,Low
+PM-012,Extraversion,Gregariousness,10.0,5.2,Low
+PM-012,Neuroticism,Anger,12.0,62.1,Low
+PM-012,Neuroticism,Anxiety,14.0,79.3,Low
+PM-012,Neuroticism,Depression,12.0,51.7,Medium
+PM-012,Neuroticism,Immoderation,12.0,48.3,Medium
+PM-012,Neuroticism,Self-Consciousness,11.0,29.3,High
+PM-012,Neuroticism,Vulnerability,13.0,79.3,Low
+PM-012,Openness,Adventurousness,16.0,100.0,Low
+PM-012,Openness,Artistic Interests,13.0,84.5,Medium
+PM-012,Openness,Emotionality,13.0,77.6,High
+PM-012,Openness,Imagination,9.0,0.0,Low
+PM-012,Openness,Intellect,12.0,55.2,High
+PM-012,Openness,Liberalism,13.0,72.4,High
+PM-013,Agreeableness,Altruism,14.0,96.6,Medium
+PM-013,Agreeableness,Cooperation,13.0,69.0,High
+PM-013,Agreeableness,Modesty,16.0,100.0,Medium
+PM-013,Agreeableness,Morality,11.0,62.1,High
+PM-013,Agreeableness,Sympathy,11.0,19.0,Low
+PM-013,Agreeableness,Trust,12.0,39.7,Medium
+PM-013,Conscientiousness,Achievement Striving,12.0,58.6,Medium
+PM-013,Conscientiousness,Cautiousness,10.0,65.5,High
+PM-013,Conscientiousness,Dutifulness,13.0,77.6,High
+PM-013,Conscientiousness,Orderliness,10.0,31.0,Low
+PM-013,Conscientiousness,Self-Discipline,13.0,84.5,High
+PM-013,Conscientiousness,Self-Efficacy,14.0,44.8,Low
+PM-013,Extraversion,Activity Level,13.0,51.7,High
+PM-013,Extraversion,Assertiveness,11.0,15.5,Low
+PM-013,Extraversion,Cheerfulness,13.0,37.9,Medium
+PM-013,Extraversion,Excitement Seeking,15.0,79.3,Medium
+PM-013,Extraversion,Friendliness,13.0,79.3,Medium
+PM-013,Extraversion,Gregariousness,11.0,24.1,Low
+PM-013,Neuroticism,Anger,9.0,1.7,Medium
+PM-013,Neuroticism,Anxiety,9.0,19.0,High
+PM-013,Neuroticism,Depression,9.0,8.6,Medium
+PM-013,Neuroticism,Immoderation,14.0,75.9,Low
+PM-013,Neuroticism,Self-Consciousness,12.0,51.7,Medium
+PM-013,Neuroticism,Vulnerability,10.0,15.5,High
+PM-013,Openness,Adventurousness,11.0,50.0,High
+PM-013,Openness,Artistic Interests,12.0,43.1,Medium
+PM-013,Openness,Emotionality,12.0,41.4,Medium
+PM-013,Openness,Imagination,12.0,31.0,Medium
+PM-013,Openness,Intellect,12.0,55.2,High
+PM-013,Openness,Liberalism,11.0,6.9,Low
+PM-014,Agreeableness,Altruism,12.0,55.2,High
+PM-014,Agreeableness,Cooperation,10.0,24.1,Low
+PM-014,Agreeableness,Modesty,11.0,44.8,Medium
+PM-014,Agreeableness,Morality,10.0,39.7,Medium
+PM-014,Agreeableness,Sympathy,11.0,19.0,Low
+PM-014,Agreeableness,Trust,13.0,67.2,High
+PM-014,Conscientiousness,Achievement Striving,13.0,82.8,High
+PM-014,Conscientiousness,Cautiousness,7.0,20.7,Low
+PM-014,Conscientiousness,Dutifulness,11.0,13.8,Low
+PM-014,Conscientiousness,Orderliness,9.0,12.1,Low
+PM-014,Conscientiousness,Self-Discipline,14.0,100.0,Medium
+PM-014,Conscientiousness,Self-Efficacy,17.0,82.8,High
+PM-014,Extraversion,Activity Level,13.0,51.7,High
+PM-014,Extraversion,Assertiveness,13.0,63.8,High
+PM-014,Extraversion,Cheerfulness,15.0,69.0,High
+PM-014,Extraversion,Excitement Seeking,16.0,91.4,Low
+PM-014,Extraversion,Friendliness,13.0,79.3,Medium
+PM-014,Extraversion,Gregariousness,12.0,51.7,High
+PM-014,Neuroticism,Anger,12.0,62.1,Low
+PM-014,Neuroticism,Anxiety,9.0,19.0,High
+PM-014,Neuroticism,Depression,13.0,70.7,Low
+PM-014,Neuroticism,Immoderation,14.0,75.9,Low
+PM-014,Neuroticism,Self-Consciousness,11.0,29.3,High
+PM-014,Neuroticism,Vulnerability,9.0,3.4,Medium
+PM-014,Openness,Adventurousness,14.0,93.1,Medium
+PM-014,Openness,Artistic Interests,12.0,43.1,Medium
+PM-014,Openness,Emotionality,13.0,77.6,High
+PM-014,Openness,Imagination,12.0,31.0,Medium
+PM-014,Openness,Intellect,13.0,86.2,Medium
+PM-014,Openness,Liberalism,13.0,72.4,High
+PM-015,Agreeableness,Altruism,11.0,17.2,Low
+PM-015,Agreeableness,Cooperation,11.0,44.8,Medium
+PM-015,Agreeableness,Modesty,7.0,6.9,Low
+PM-015,Agreeableness,Morality,11.0,62.1,High
+PM-015,Agreeableness,Sympathy,12.0,55.2,High
+PM-015,Agreeableness,Trust,14.0,87.9,Medium
+PM-015,Conscientiousness,Achievement Striving,12.0,58.6,Medium
+PM-015,Conscientiousness,Cautiousness,11.0,79.3,High
+PM-015,Conscientiousness,Dutifulness,11.0,13.8,Low
+PM-015,Conscientiousness,Orderliness,9.0,12.1,Low
+PM-015,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-015,Conscientiousness,Self-Efficacy,14.0,44.8,Low
+PM-015,Extraversion,Activity Level,13.0,51.7,High
+PM-015,Extraversion,Assertiveness,13.0,63.8,High
+PM-015,Extraversion,Cheerfulness,17.0,91.4,Low
+PM-015,Extraversion,Excitement Seeking,15.0,79.3,Medium
+PM-015,Extraversion,Friendliness,13.0,79.3,Medium
+PM-015,Extraversion,Gregariousness,13.0,75.9,Medium
+PM-015,Neuroticism,Anger,11.0,34.5,High
+PM-015,Neuroticism,Anxiety,9.0,19.0,High
+PM-015,Neuroticism,Depression,9.0,8.6,Medium
+PM-015,Neuroticism,Immoderation,15.0,91.4,Low
+PM-015,Neuroticism,Self-Consciousness,10.0,13.8,High
+PM-015,Neuroticism,Vulnerability,11.0,34.5,High
+PM-015,Openness,Adventurousness,13.0,86.2,Medium
+PM-015,Openness,Artistic Interests,13.0,84.5,Medium
+PM-015,Openness,Emotionality,14.0,96.6,Low
+PM-015,Openness,Imagination,12.0,31.0,Medium
+PM-015,Openness,Intellect,14.0,100.0,Low
+PM-015,Openness,Liberalism,13.0,72.4,High
+PM-016,Agreeableness,Altruism,12.0,55.2,High
+PM-016,Agreeableness,Cooperation,10.0,24.1,Low
+PM-016,Agreeableness,Modesty,11.0,44.8,Medium
+PM-016,Agreeableness,Morality,9.0,17.2,Low
+PM-016,Agreeableness,Sympathy,11.0,19.0,Low
+PM-016,Agreeableness,Trust,14.0,87.9,Medium
+PM-016,Conscientiousness,Achievement Striving,9.0,5.2,Low
+PM-016,Conscientiousness,Cautiousness,9.0,48.3,Low
+PM-016,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-016,Conscientiousness,Orderliness,10.0,31.0,Low
+PM-016,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-016,Conscientiousness,Self-Efficacy,14.0,44.8,Low
+PM-016,Extraversion,Activity Level,12.0,22.4,Low
+PM-016,Extraversion,Assertiveness,13.0,63.8,High
+PM-016,Extraversion,Cheerfulness,8.0,1.7,Low
+PM-016,Extraversion,Excitement Seeking,10.0,12.1,Low
+PM-016,Extraversion,Friendliness,11.0,25.9,Medium
+PM-016,Extraversion,Gregariousness,12.0,51.7,High
+PM-016,Neuroticism,Anger,12.0,62.1,Low
+PM-016,Neuroticism,Anxiety,13.0,69.0,Low
+PM-016,Neuroticism,Depression,12.0,51.7,Medium
+PM-016,Neuroticism,Immoderation,13.0,63.8,Low
+PM-016,Neuroticism,Self-Consciousness,12.0,51.7,Medium
+PM-016,Neuroticism,Vulnerability,11.0,34.5,High
+PM-016,Openness,Adventurousness,11.0,50.0,High
+PM-016,Openness,Artistic Interests,11.0,8.6,Low
+PM-016,Openness,Emotionality,12.0,41.4,Medium
+PM-016,Openness,Imagination,14.0,63.8,High
+PM-016,Openness,Intellect,10.0,10.3,Low
+PM-016,Openness,Liberalism,12.0,31.0,Medium
+PM-017,Agreeableness,Altruism,12.0,55.2,High
+PM-017,Agreeableness,Cooperation,7.0,3.4,Low
+PM-017,Agreeableness,Modesty,10.0,27.6,Low
+PM-017,Agreeableness,Morality,9.0,17.2,Low
+PM-017,Agreeableness,Sympathy,11.0,19.0,Low
+PM-017,Agreeableness,Trust,12.0,39.7,Medium
+PM-017,Conscientiousness,Achievement Striving,11.0,32.8,Low
+PM-017,Conscientiousness,Cautiousness,4.0,1.7,Low
+PM-017,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-017,Conscientiousness,Orderliness,10.0,31.0,Low
+PM-017,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-017,Conscientiousness,Self-Efficacy,19.0,96.6,Medium
+PM-017,Extraversion,Activity Level,13.0,51.7,High
+PM-017,Extraversion,Assertiveness,14.0,87.9,Medium
+PM-017,Extraversion,Cheerfulness,17.0,91.4,Low
+PM-017,Extraversion,Excitement Seeking,15.0,79.3,Medium
+PM-017,Extraversion,Friendliness,10.0,5.2,Low
+PM-017,Extraversion,Gregariousness,10.0,5.2,Low
+PM-017,Neuroticism,Anger,9.0,1.7,Medium
+PM-017,Neuroticism,Anxiety,5.0,0.0,Medium
+PM-017,Neuroticism,Depression,8.0,0.0,Medium
+PM-017,Neuroticism,Immoderation,16.0,100.0,Low
+PM-017,Neuroticism,Self-Consciousness,10.0,13.8,High
+PM-017,Neuroticism,Vulnerability,9.0,3.4,Medium
+PM-017,Openness,Adventurousness,11.0,50.0,High
+PM-017,Openness,Artistic Interests,12.0,43.1,Medium
+PM-017,Openness,Emotionality,12.0,41.4,Medium
+PM-017,Openness,Imagination,15.0,81.0,Medium
+PM-017,Openness,Intellect,12.0,55.2,High
+PM-017,Openness,Liberalism,12.0,31.0,Medium
+PM-018,Agreeableness,Altruism,13.0,86.2,Medium
+PM-018,Agreeableness,Cooperation,10.0,24.1,Low
+PM-018,Agreeableness,Modesty,10.0,27.6,Low
+PM-018,Agreeableness,Morality,8.0,6.9,Low
+PM-018,Agreeableness,Sympathy,15.0,100.0,Medium
+PM-018,Agreeableness,Trust,12.0,39.7,Medium
+PM-018,Conscientiousness,Achievement Striving,11.0,32.8,Low
+PM-018,Conscientiousness,Cautiousness,11.0,79.3,High
+PM-018,Conscientiousness,Dutifulness,11.0,13.8,Low
+PM-018,Conscientiousness,Orderliness,10.0,31.0,Low
+PM-018,Conscientiousness,Self-Discipline,13.0,84.5,High
+PM-018,Conscientiousness,Self-Efficacy,12.0,12.1,Low
+PM-018,Extraversion,Activity Level,14.0,86.2,Medium
+PM-018,Extraversion,Assertiveness,13.0,63.8,High
+PM-018,Extraversion,Cheerfulness,11.0,10.3,Low
+PM-018,Extraversion,Excitement Seeking,14.0,65.5,High
+PM-018,Extraversion,Friendliness,14.0,98.3,Low
+PM-018,Extraversion,Gregariousness,12.0,51.7,High
+PM-018,Neuroticism,Anger,15.0,96.6,Low
+PM-018,Neuroticism,Anxiety,13.0,69.0,Low
+PM-018,Neuroticism,Depression,14.0,89.7,Low
+PM-018,Neuroticism,Immoderation,9.0,1.7,Medium
+PM-018,Neuroticism,Self-Consciousness,14.0,91.4,Low
+PM-018,Neuroticism,Vulnerability,12.0,56.9,Low
+PM-018,Openness,Adventurousness,10.0,20.7,Low
+PM-018,Openness,Artistic Interests,13.0,84.5,Medium
+PM-018,Openness,Emotionality,11.0,10.3,Low
+PM-018,Openness,Imagination,12.0,31.0,Medium
+PM-018,Openness,Intellect,12.0,55.2,High
+PM-018,Openness,Liberalism,13.0,72.4,High
+PM-019,Agreeableness,Altruism,11.0,17.2,Low
+PM-019,Agreeableness,Cooperation,10.0,24.1,Low
+PM-019,Agreeableness,Modesty,9.0,19.0,Low
+PM-019,Agreeableness,Morality,9.0,17.2,Low
+PM-019,Agreeableness,Sympathy,11.0,19.0,Low
+PM-019,Agreeableness,Trust,12.0,39.7,Medium
+PM-019,Conscientiousness,Achievement Striving,13.0,82.8,High
+PM-019,Conscientiousness,Cautiousness,10.0,65.5,High
+PM-019,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-019,Conscientiousness,Orderliness,10.0,31.0,Low
+PM-019,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-019,Conscientiousness,Self-Efficacy,11.0,6.9,Low
+PM-019,Extraversion,Activity Level,13.0,51.7,High
+PM-019,Extraversion,Assertiveness,15.0,96.6,Low
+PM-019,Extraversion,Cheerfulness,16.0,81.0,Medium
+PM-019,Extraversion,Excitement Seeking,19.0,100.0,Low
+PM-019,Extraversion,Friendliness,10.0,5.2,Low
+PM-019,Extraversion,Gregariousness,11.0,24.1,Low
+PM-019,Neuroticism,Anger,11.0,34.5,High
+PM-019,Neuroticism,Anxiety,12.0,50.0,Medium
+PM-019,Neuroticism,Depression,9.0,8.6,Medium
+PM-019,Neuroticism,Immoderation,12.0,48.3,Medium
+PM-019,Neuroticism,Self-Consciousness,12.0,51.7,Medium
+PM-019,Neuroticism,Vulnerability,11.0,34.5,High
+PM-019,Openness,Adventurousness,10.0,20.7,Low
+PM-019,Openness,Artistic Interests,12.0,43.1,Medium
+PM-019,Openness,Emotionality,11.0,10.3,Low
+PM-019,Openness,Imagination,15.0,81.0,Medium
+PM-019,Openness,Intellect,10.0,10.3,Low
+PM-019,Openness,Liberalism,13.0,72.4,High
+PM-020,Agreeableness,Altruism,11.0,17.2,Low
+PM-020,Agreeableness,Cooperation,14.0,84.5,High
+PM-020,Agreeableness,Modesty,14.0,91.4,Medium
+PM-020,Agreeableness,Morality,10.0,39.7,Medium
+PM-020,Agreeableness,Sympathy,12.0,55.2,High
+PM-020,Agreeableness,Trust,11.0,15.5,Low
+PM-020,Conscientiousness,Achievement Striving,13.0,82.8,High
+PM-020,Conscientiousness,Cautiousness,9.0,48.3,Low
+PM-020,Conscientiousness,Dutifulness,13.0,77.6,High
+PM-020,Conscientiousness,Orderliness,12.0,74.1,High
+PM-020,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-020,Conscientiousness,Self-Efficacy,15.0,60.3,Medium
+PM-020,Extraversion,Activity Level,13.0,51.7,High
+PM-020,Extraversion,Assertiveness,11.0,15.5,Low
+PM-020,Extraversion,Cheerfulness,10.0,6.9,Low
+PM-020,Extraversion,Excitement Seeking,11.0,22.4,Low
+PM-020,Extraversion,Friendliness,10.0,5.2,Low
+PM-020,Extraversion,Gregariousness,12.0,51.7,High
+PM-020,Neuroticism,Anger,12.0,62.1,Low
+PM-020,Neuroticism,Anxiety,15.0,89.7,Low
+PM-020,Neuroticism,Depression,14.0,89.7,Low
+PM-020,Neuroticism,Immoderation,11.0,29.3,High
+PM-020,Neuroticism,Self-Consciousness,13.0,74.1,Low
+PM-020,Neuroticism,Vulnerability,14.0,93.1,Low
+PM-020,Openness,Adventurousness,9.0,5.2,Low
+PM-020,Openness,Artistic Interests,12.0,43.1,Medium
+PM-020,Openness,Emotionality,12.0,41.4,Medium
+PM-020,Openness,Imagination,16.0,93.1,Medium
+PM-020,Openness,Intellect,7.0,0.0,Low
+PM-020,Openness,Liberalism,12.0,31.0,Medium
+PM-021,Agreeableness,Altruism,12.0,55.2,High
+PM-021,Agreeableness,Cooperation,10.0,24.1,Low
+PM-021,Agreeableness,Modesty,8.0,13.8,Low
+PM-021,Agreeableness,Morality,9.0,17.2,Low
+PM-021,Agreeableness,Sympathy,12.0,55.2,High
+PM-021,Agreeableness,Trust,13.0,67.2,High
+PM-021,Conscientiousness,Achievement Striving,13.0,82.8,High
+PM-021,Conscientiousness,Cautiousness,8.0,32.8,Low
+PM-021,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-021,Conscientiousness,Orderliness,11.0,53.4,Medium
+PM-021,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-021,Conscientiousness,Self-Efficacy,12.0,12.1,Low
+PM-021,Extraversion,Activity Level,14.0,86.2,Medium
+PM-021,Extraversion,Assertiveness,12.0,34.5,Medium
+PM-021,Extraversion,Cheerfulness,14.0,53.4,High
+PM-021,Extraversion,Excitement Seeking,13.0,53.4,High
+PM-021,Extraversion,Friendliness,11.0,25.9,Medium
+PM-021,Extraversion,Gregariousness,11.0,24.1,Low
+PM-021,Neuroticism,Anger,12.0,62.1,Low
+PM-021,Neuroticism,Anxiety,15.0,89.7,Low
+PM-021,Neuroticism,Depression,12.0,51.7,Medium
+PM-021,Neuroticism,Immoderation,11.0,29.3,High
+PM-021,Neuroticism,Self-Consciousness,12.0,51.7,Medium
+PM-021,Neuroticism,Vulnerability,13.0,79.3,Low
+PM-021,Openness,Adventurousness,11.0,50.0,High
+PM-021,Openness,Artistic Interests,13.0,84.5,Medium
+PM-021,Openness,Emotionality,12.0,41.4,Medium
+PM-021,Openness,Imagination,13.0,50.0,High
+PM-021,Openness,Intellect,13.0,86.2,Medium
+PM-021,Openness,Liberalism,15.0,100.0,Low
+PM-022,Agreeableness,Altruism,12.0,55.2,High
+PM-022,Agreeableness,Cooperation,10.0,24.1,Low
+PM-022,Agreeableness,Modesty,11.0,44.8,Medium
+PM-022,Agreeableness,Morality,13.0,89.7,Medium
+PM-022,Agreeableness,Sympathy,14.0,94.8,Medium
+PM-022,Agreeableness,Trust,15.0,98.3,Medium
+PM-022,Conscientiousness,Achievement Striving,13.0,82.8,High
+PM-022,Conscientiousness,Cautiousness,9.0,48.3,Low
+PM-022,Conscientiousness,Dutifulness,14.0,94.8,High
+PM-022,Conscientiousness,Orderliness,9.0,12.1,Low
+PM-022,Conscientiousness,Self-Discipline,13.0,84.5,High
+PM-022,Conscientiousness,Self-Efficacy,13.0,25.9,Low
+PM-022,Extraversion,Activity Level,9.0,0.0,Low
+PM-022,Extraversion,Assertiveness,12.0,34.5,Medium
+PM-022,Extraversion,Cheerfulness,13.0,37.9,Medium
+PM-022,Extraversion,Excitement Seeking,11.0,22.4,Low
+PM-022,Extraversion,Friendliness,13.0,79.3,Medium
+PM-022,Extraversion,Gregariousness,12.0,51.7,High
+PM-022,Neuroticism,Anger,13.0,81.0,Low
+PM-022,Neuroticism,Anxiety,12.0,50.0,Medium
+PM-022,Neuroticism,Depression,13.0,70.7,Low
+PM-022,Neuroticism,Immoderation,10.0,13.8,High
+PM-022,Neuroticism,Self-Consciousness,12.0,51.7,Medium
+PM-022,Neuroticism,Vulnerability,11.0,34.5,High
+PM-022,Openness,Adventurousness,10.0,20.7,Low
+PM-022,Openness,Artistic Interests,13.0,84.5,Medium
+PM-022,Openness,Emotionality,12.0,41.4,Medium
+PM-022,Openness,Imagination,11.0,10.3,Low
+PM-022,Openness,Intellect,10.0,10.3,Low
+PM-022,Openness,Liberalism,12.0,31.0,Medium
+PM-023,Agreeableness,Altruism,11.0,17.2,Low
+PM-023,Agreeableness,Cooperation,9.0,10.3,Low
+PM-023,Agreeableness,Modesty,7.0,6.9,Low
+PM-023,Agreeableness,Morality,12.0,77.6,High
+PM-023,Agreeableness,Sympathy,11.0,19.0,Low
+PM-023,Agreeableness,Trust,15.0,98.3,Medium
+PM-023,Conscientiousness,Achievement Striving,12.0,58.6,Medium
+PM-023,Conscientiousness,Cautiousness,7.0,20.7,Low
+PM-023,Conscientiousness,Dutifulness,11.0,13.8,Low
+PM-023,Conscientiousness,Orderliness,10.0,31.0,Low
+PM-023,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-023,Conscientiousness,Self-Efficacy,17.0,82.8,High
+PM-023,Extraversion,Activity Level,12.0,22.4,Low
+PM-023,Extraversion,Assertiveness,13.0,63.8,High
+PM-023,Extraversion,Cheerfulness,18.0,100.0,Low
+PM-023,Extraversion,Excitement Seeking,13.0,53.4,High
+PM-023,Extraversion,Friendliness,13.0,79.3,Medium
+PM-023,Extraversion,Gregariousness,11.0,24.1,Low
+PM-023,Neuroticism,Anger,11.0,34.5,High
+PM-023,Neuroticism,Anxiety,12.0,50.0,Medium
+PM-023,Neuroticism,Depression,13.0,70.7,Low
+PM-023,Neuroticism,Immoderation,15.0,91.4,Low
+PM-023,Neuroticism,Self-Consciousness,11.0,29.3,High
+PM-023,Neuroticism,Vulnerability,11.0,34.5,High
+PM-023,Openness,Adventurousness,12.0,75.9,High
+PM-023,Openness,Artistic Interests,12.0,43.1,Medium
+PM-023,Openness,Emotionality,12.0,41.4,Medium
+PM-023,Openness,Imagination,14.0,63.8,High
+PM-023,Openness,Intellect,12.0,55.2,High
+PM-023,Openness,Liberalism,12.0,31.0,Medium
+PM-024,Agreeableness,Altruism,13.0,86.2,Medium
+PM-024,Agreeableness,Cooperation,12.0,58.6,High
+PM-024,Agreeableness,Modesty,15.0,96.6,Medium
+PM-024,Agreeableness,Morality,13.0,89.7,Medium
+PM-024,Agreeableness,Sympathy,12.0,55.2,High
+PM-024,Agreeableness,Trust,11.0,15.5,Low
+PM-024,Conscientiousness,Achievement Striving,10.0,13.8,Low
+PM-024,Conscientiousness,Cautiousness,12.0,89.7,High
+PM-024,Conscientiousness,Dutifulness,14.0,94.8,High
+PM-024,Conscientiousness,Orderliness,13.0,93.1,High
+PM-024,Conscientiousness,Self-Discipline,11.0,5.2,Low
+PM-024,Conscientiousness,Self-Efficacy,7.0,0.0,Low
+PM-024,Extraversion,Activity Level,10.0,3.4,Low
+PM-024,Extraversion,Assertiveness,10.0,3.4,Low
+PM-024,Extraversion,Cheerfulness,12.0,20.7,Low
+PM-024,Extraversion,Excitement Seeking,7.0,0.0,Low
+PM-024,Extraversion,Friendliness,11.0,25.9,Medium
+PM-024,Extraversion,Gregariousness,10.0,5.2,Low
+PM-024,Neuroticism,Anger,13.0,81.0,Low
+PM-024,Neuroticism,Anxiety,13.0,69.0,Low
+PM-024,Neuroticism,Depression,12.0,51.7,Medium
+PM-024,Neuroticism,Immoderation,12.0,48.3,Medium
+PM-024,Neuroticism,Self-Consciousness,13.0,74.1,Low
+PM-024,Neuroticism,Vulnerability,12.0,56.9,Low
+PM-024,Openness,Adventurousness,10.0,20.7,Low
+PM-024,Openness,Artistic Interests,12.0,43.1,Medium
+PM-024,Openness,Emotionality,13.0,77.6,High
+PM-024,Openness,Imagination,15.0,81.0,Medium
+PM-024,Openness,Intellect,11.0,27.6,Low
+PM-024,Openness,Liberalism,13.0,72.4,High
+PM-025,Agreeableness,Altruism,12.0,55.2,High
+PM-025,Agreeableness,Cooperation,13.0,69.0,High
+PM-025,Agreeableness,Modesty,13.0,81.0,High
+PM-025,Agreeableness,Morality,14.0,96.6,Medium
+PM-025,Agreeableness,Sympathy,12.0,55.2,High
+PM-025,Agreeableness,Trust,14.0,87.9,Medium
+PM-025,Conscientiousness,Achievement Striving,11.0,32.8,Low
+PM-025,Conscientiousness,Cautiousness,6.0,10.3,Low
+PM-025,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-025,Conscientiousness,Orderliness,12.0,74.1,High
+PM-025,Conscientiousness,Self-Discipline,13.0,84.5,High
+PM-025,Conscientiousness,Self-Efficacy,13.0,25.9,Low
+PM-025,Extraversion,Activity Level,13.0,51.7,High
+PM-025,Extraversion,Assertiveness,14.0,87.9,Medium
+PM-025,Extraversion,Cheerfulness,16.0,81.0,Medium
+PM-025,Extraversion,Excitement Seeking,14.0,65.5,High
+PM-025,Extraversion,Friendliness,12.0,51.7,High
+PM-025,Extraversion,Gregariousness,12.0,51.7,High
+PM-025,Neuroticism,Anger,11.0,34.5,High
+PM-025,Neuroticism,Anxiety,11.0,34.5,High
+PM-025,Neuroticism,Depression,13.0,70.7,Low
+PM-025,Neuroticism,Immoderation,14.0,75.9,Low
+PM-025,Neuroticism,Self-Consciousness,11.0,29.3,High
+PM-025,Neuroticism,Vulnerability,12.0,56.9,Low
+PM-025,Openness,Adventurousness,8.0,0.0,Low
+PM-025,Openness,Artistic Interests,12.0,43.1,Medium
+PM-025,Openness,Emotionality,10.0,0.0,Low
+PM-025,Openness,Imagination,14.0,63.8,High
+PM-025,Openness,Intellect,13.0,86.2,Medium
+PM-025,Openness,Liberalism,13.0,72.4,High
+PM-026,Agreeableness,Altruism,12.0,55.2,High
+PM-026,Agreeableness,Cooperation,14.0,84.5,High
+PM-026,Agreeableness,Modesty,13.0,81.0,High
+PM-026,Agreeableness,Morality,11.0,62.1,High
+PM-026,Agreeableness,Sympathy,11.0,19.0,Low
+PM-026,Agreeableness,Trust,12.0,39.7,Medium
+PM-026,Conscientiousness,Achievement Striving,10.0,13.8,Low
+PM-026,Conscientiousness,Cautiousness,8.0,32.8,Low
+PM-026,Conscientiousness,Dutifulness,13.0,77.6,High
+PM-026,Conscientiousness,Orderliness,11.0,53.4,Medium
+PM-026,Conscientiousness,Self-Discipline,10.0,0.0,Low
+PM-026,Conscientiousness,Self-Efficacy,15.0,60.3,Medium
+PM-026,Extraversion,Activity Level,11.0,10.3,Low
+PM-026,Extraversion,Assertiveness,11.0,15.5,Low
+PM-026,Extraversion,Cheerfulness,13.0,37.9,Medium
+PM-026,Extraversion,Excitement Seeking,9.0,6.9,Low
+PM-026,Extraversion,Friendliness,12.0,51.7,High
+PM-026,Extraversion,Gregariousness,10.0,5.2,Low
+PM-026,Neuroticism,Anger,11.0,34.5,High
+PM-026,Neuroticism,Anxiety,12.0,50.0,Medium
+PM-026,Neuroticism,Depression,11.0,34.5,High
+PM-026,Neuroticism,Immoderation,12.0,48.3,Medium
+PM-026,Neuroticism,Self-Consciousness,10.0,13.8,High
+PM-026,Neuroticism,Vulnerability,11.0,34.5,High
+PM-026,Openness,Adventurousness,10.0,20.7,Low
+PM-026,Openness,Artistic Interests,12.0,43.1,Medium
+PM-026,Openness,Emotionality,11.0,10.3,Low
+PM-026,Openness,Imagination,13.0,50.0,High
+PM-026,Openness,Intellect,12.0,55.2,High
+PM-026,Openness,Liberalism,12.0,31.0,Medium
+PM-027,Agreeableness,Altruism,12.0,55.2,High
+PM-027,Agreeableness,Cooperation,15.0,96.6,Medium
+PM-027,Agreeableness,Modesty,7.0,6.9,Low
+PM-027,Agreeableness,Morality,10.0,39.7,Medium
+PM-027,Agreeableness,Sympathy,12.0,55.2,High
+PM-027,Agreeableness,Trust,11.0,15.5,Low
+PM-027,Conscientiousness,Achievement Striving,11.0,32.8,Low
+PM-027,Conscientiousness,Cautiousness,9.0,48.3,Low
+PM-027,Conscientiousness,Dutifulness,11.0,13.8,Low
+PM-027,Conscientiousness,Orderliness,12.0,74.1,High
+PM-027,Conscientiousness,Self-Discipline,13.0,84.5,High
+PM-027,Conscientiousness,Self-Efficacy,16.0,72.4,High
+PM-027,Extraversion,Activity Level,13.0,51.7,High
+PM-027,Extraversion,Assertiveness,14.0,87.9,Medium
+PM-027,Extraversion,Cheerfulness,13.0,37.9,Medium
+PM-027,Extraversion,Excitement Seeking,12.0,37.9,Medium
+PM-027,Extraversion,Friendliness,12.0,51.7,High
+PM-027,Extraversion,Gregariousness,12.0,51.7,High
+PM-027,Neuroticism,Anger,11.0,34.5,High
+PM-027,Neuroticism,Anxiety,15.0,89.7,Low
+PM-027,Neuroticism,Depression,12.0,51.7,Medium
+PM-027,Neuroticism,Immoderation,12.0,48.3,Medium
+PM-027,Neuroticism,Self-Consciousness,13.0,74.1,Low
+PM-027,Neuroticism,Vulnerability,13.0,79.3,Low
+PM-027,Openness,Adventurousness,12.0,75.9,High
+PM-027,Openness,Artistic Interests,13.0,84.5,Medium
+PM-027,Openness,Emotionality,12.0,41.4,Medium
+PM-027,Openness,Imagination,11.0,10.3,Low
+PM-027,Openness,Intellect,13.0,86.2,Medium
+PM-027,Openness,Liberalism,12.0,31.0,Medium
+PM-028,Agreeableness,Altruism,11.0,17.2,Low
+PM-028,Agreeableness,Cooperation,13.0,69.0,High
+PM-028,Agreeableness,Modesty,11.0,44.8,Medium
+PM-028,Agreeableness,Morality,5.0,1.7,Low
+PM-028,Agreeableness,Sympathy,12.0,55.2,High
+PM-028,Agreeableness,Trust,13.0,67.2,High
+PM-028,Conscientiousness,Achievement Striving,8.0,0.0,Low
+PM-028,Conscientiousness,Cautiousness,10.0,65.5,High
+PM-028,Conscientiousness,Dutifulness,14.0,94.8,High
+PM-028,Conscientiousness,Orderliness,11.0,53.4,Medium
+PM-028,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-028,Conscientiousness,Self-Efficacy,14.0,44.8,Low
+PM-028,Extraversion,Activity Level,13.0,51.7,High
+PM-028,Extraversion,Assertiveness,12.0,34.5,Medium
+PM-028,Extraversion,Cheerfulness,15.0,69.0,High
+PM-028,Extraversion,Excitement Seeking,13.0,53.4,High
+PM-028,Extraversion,Friendliness,13.0,79.3,Medium
+PM-028,Extraversion,Gregariousness,13.0,75.9,Medium
+PM-028,Neuroticism,Anger,12.0,62.1,Low
+PM-028,Neuroticism,Anxiety,10.0,29.3,High
+PM-028,Neuroticism,Depression,13.0,70.7,Low
+PM-028,Neuroticism,Immoderation,9.0,1.7,Medium
+PM-028,Neuroticism,Self-Consciousness,12.0,51.7,Medium
+PM-028,Neuroticism,Vulnerability,10.0,15.5,High
+PM-028,Openness,Adventurousness,12.0,75.9,High
+PM-028,Openness,Artistic Interests,10.0,0.0,Low
+PM-028,Openness,Emotionality,12.0,41.4,Medium
+PM-028,Openness,Imagination,12.0,31.0,Medium
+PM-028,Openness,Intellect,13.0,86.2,Medium
+PM-028,Openness,Liberalism,12.0,31.0,Medium
+PM-029,Agreeableness,Altruism,12.0,55.2,High
+PM-029,Agreeableness,Cooperation,8.0,6.9,Low
+PM-029,Agreeableness,Modesty,6.0,0.0,Low
+PM-029,Agreeableness,Morality,10.0,39.7,Medium
+PM-029,Agreeableness,Sympathy,11.0,19.0,Low
+PM-029,Agreeableness,Trust,13.0,67.2,High
+PM-029,Conscientiousness,Achievement Striving,12.0,58.6,Medium
+PM-029,Conscientiousness,Cautiousness,14.0,100.0,Medium
+PM-029,Conscientiousness,Dutifulness,12.0,46.6,Low
+PM-029,Conscientiousness,Orderliness,13.0,93.1,High
+PM-029,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-029,Conscientiousness,Self-Efficacy,13.0,25.9,Low
+PM-029,Extraversion,Activity Level,13.0,51.7,High
+PM-029,Extraversion,Assertiveness,10.0,3.4,Low
+PM-029,Extraversion,Cheerfulness,14.0,53.4,High
+PM-029,Extraversion,Excitement Seeking,10.0,12.1,Low
+PM-029,Extraversion,Friendliness,13.0,79.3,Medium
+PM-029,Extraversion,Gregariousness,12.0,51.7,High
+PM-029,Neuroticism,Anger,13.0,81.0,Low
+PM-029,Neuroticism,Anxiety,12.0,50.0,Medium
+PM-029,Neuroticism,Depression,14.0,89.7,Low
+PM-029,Neuroticism,Immoderation,12.0,48.3,Medium
+PM-029,Neuroticism,Self-Consciousness,13.0,74.1,Low
+PM-029,Neuroticism,Vulnerability,13.0,79.3,Low
+PM-029,Openness,Adventurousness,11.0,50.0,High
+PM-029,Openness,Artistic Interests,13.0,84.5,Medium
+PM-029,Openness,Emotionality,11.0,10.3,Low
+PM-029,Openness,Imagination,15.0,81.0,Medium
+PM-029,Openness,Intellect,12.0,55.2,High
+PM-029,Openness,Liberalism,14.0,96.6,Low
+PM-030,Agreeableness,Altruism,12.0,55.2,High
+PM-030,Agreeableness,Cooperation,11.0,44.8,Medium
+PM-030,Agreeableness,Modesty,12.0,65.5,High
+PM-030,Agreeableness,Morality,12.0,77.6,High
+PM-030,Agreeableness,Sympathy,11.0,19.0,Low
+PM-030,Agreeableness,Trust,13.0,67.2,High
+PM-030,Conscientiousness,Achievement Striving,11.0,32.8,Low
+PM-030,Conscientiousness,Cautiousness,7.0,20.7,Low
+PM-030,Conscientiousness,Dutifulness,13.0,77.6,High
+PM-030,Conscientiousness,Orderliness,13.0,93.1,High
+PM-030,Conscientiousness,Self-Discipline,12.0,39.7,Low
+PM-030,Conscientiousness,Self-Efficacy,18.0,91.4,High
+PM-030,Extraversion,Activity Level,14.0,86.2,Medium
+PM-030,Extraversion,Assertiveness,12.0,34.5,Medium
+PM-030,Extraversion,Cheerfulness,13.0,37.9,Medium
+PM-030,Extraversion,Excitement Seeking,14.0,65.5,High
+PM-030,Extraversion,Friendliness,13.0,79.3,Medium
+PM-030,Extraversion,Gregariousness,13.0,75.9,Medium
+PM-030,Neuroticism,Anger,10.0,12.1,High
+PM-030,Neuroticism,Anxiety,9.0,19.0,High
+PM-030,Neuroticism,Depression,11.0,34.5,High
+PM-030,Neuroticism,Immoderation,11.0,29.3,High
+PM-030,Neuroticism,Self-Consciousness,9.0,3.4,Medium
+PM-030,Neuroticism,Vulnerability,11.0,34.5,High
+PM-030,Openness,Adventurousness,9.0,5.2,Low
+PM-030,Openness,Artistic Interests,11.0,8.6,Low
+PM-030,Openness,Emotionality,12.0,41.4,Medium
+PM-030,Openness,Imagination,12.0,31.0,Medium
+PM-030,Openness,Intellect,11.0,27.6,Low
+PM-030,Openness,Liberalism,12.0,31.0,Medium

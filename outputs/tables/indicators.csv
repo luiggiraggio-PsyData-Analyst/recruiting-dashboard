@@ -1,0 +1,301 @@
+candidate_id,name,indicator,category,value,band,bar,label
+PM-001,Mariana Romero,Cognitive ability (ICAR),cognitive,67.0,>= 55,67.0,High
+PM-001,Mariana Romero,Personality - Neuroticism,personality,89.7,10 - 40,89.7,Low
+PM-001,Mariana Romero,Personality - Extraversion,personality,10.3,40 - 75,10.3,Low
+PM-001,Mariana Romero,Personality - Openness,personality,44.8,45 - 80,44.8,Medium
+PM-001,Mariana Romero,Personality - Agreeableness,personality,60.3,45 - 85,60.3,High
+PM-001,Mariana Romero,Personality - Conscientiousness,personality,81.0,65 - 95,81.0,High
+PM-001,Mariana Romero,Integrity (Honesty-Humility),integrity,36.2,>= 65,36.2,Low
+PM-001,Mariana Romero,Vocational interests (RIASEC congruence),interests,83.3,ESC-dominant profile,83.3,High
+PM-001,Mariana Romero,CV & documentation score,cv,70.9,Education / experience / certifications,70.9,Medium
+PM-001,Mariana Romero,Overall fit index,fit,73.9,Weighted composite,73.9,High
+PM-002,Natalia Perez,Cognitive ability (ICAR),cognitive,15.2,>= 55,15.2,Low
+PM-002,Natalia Perez,Personality - Neuroticism,personality,17.2,10 - 40,17.2,High
+PM-002,Natalia Perez,Personality - Extraversion,personality,34.5,40 - 75,34.5,Medium
+PM-002,Natalia Perez,Personality - Openness,personality,51.7,45 - 80,51.7,High
+PM-002,Natalia Perez,Personality - Agreeableness,personality,67.2,45 - 85,67.2,High
+PM-002,Natalia Perez,Personality - Conscientiousness,personality,81.0,65 - 95,81.0,High
+PM-002,Natalia Perez,Integrity (Honesty-Humility),integrity,36.2,>= 65,36.2,Low
+PM-002,Natalia Perez,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-002,Natalia Perez,CV & documentation score,cv,59.4,Education / experience / certifications,59.4,Medium
+PM-002,Natalia Perez,Overall fit index,fit,71.9,Weighted composite,71.9,Medium
+PM-003,Ricardo Salazar,Cognitive ability (ICAR),cognitive,2.8,>= 55,2.8,Low
+PM-003,Ricardo Salazar,Personality - Neuroticism,personality,96.6,10 - 40,96.6,Low
+PM-003,Ricardo Salazar,Personality - Extraversion,personality,3.4,40 - 75,3.4,Low
+PM-003,Ricardo Salazar,Personality - Openness,personality,6.9,45 - 80,6.9,Low
+PM-003,Ricardo Salazar,Personality - Agreeableness,personality,0.0,45 - 85,0.0,Low
+PM-003,Ricardo Salazar,Personality - Conscientiousness,personality,58.6,65 - 95,58.6,Medium
+PM-003,Ricardo Salazar,Integrity (Honesty-Humility),integrity,75.9,>= 65,75.9,High
+PM-003,Ricardo Salazar,Vocational interests (RIASEC congruence),interests,83.3,ESC-dominant profile,83.3,High
+PM-003,Ricardo Salazar,CV & documentation score,cv,55.7,Education / experience / certifications,55.7,Medium
+PM-003,Ricardo Salazar,Overall fit index,fit,51.3,Weighted composite,51.3,Low
+PM-004,Mateo Sanchez,Cognitive ability (ICAR),cognitive,5.3,>= 55,5.3,Low
+PM-004,Mateo Sanchez,Personality - Neuroticism,personality,17.2,10 - 40,17.2,High
+PM-004,Mateo Sanchez,Personality - Extraversion,personality,34.5,40 - 75,34.5,Medium
+PM-004,Mateo Sanchez,Personality - Openness,personality,91.4,45 - 80,91.4,Medium
+PM-004,Mateo Sanchez,Personality - Agreeableness,personality,86.2,45 - 85,86.2,Medium
+PM-004,Mateo Sanchez,Personality - Conscientiousness,personality,12.1,65 - 95,12.1,Low
+PM-004,Mateo Sanchez,Integrity (Honesty-Humility),integrity,93.1,>= 65,93.1,High
+PM-004,Mateo Sanchez,Vocational interests (RIASEC congruence),interests,16.7,ESC-dominant profile,16.7,Low
+PM-004,Mateo Sanchez,CV & documentation score,cv,75.2,Education / experience / certifications,75.2,High
+PM-004,Mateo Sanchez,Overall fit index,fit,54.9,Weighted composite,54.9,Low
+PM-005,Pablo Castillo,Cognitive ability (ICAR),cognitive,76.9,>= 55,76.9,High
+PM-005,Pablo Castillo,Personality - Neuroticism,personality,25.9,10 - 40,25.9,High
+PM-005,Pablo Castillo,Personality - Extraversion,personality,100.0,40 - 75,100.0,Low
+PM-005,Pablo Castillo,Personality - Openness,personality,63.8,45 - 80,63.8,High
+PM-005,Pablo Castillo,Personality - Agreeableness,personality,50.0,45 - 85,50.0,High
+PM-005,Pablo Castillo,Personality - Conscientiousness,personality,0.0,65 - 95,0.0,Low
+PM-005,Pablo Castillo,Integrity (Honesty-Humility),integrity,75.9,>= 65,75.9,High
+PM-005,Pablo Castillo,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-005,Pablo Castillo,CV & documentation score,cv,56.7,Education / experience / certifications,56.7,Medium
+PM-005,Pablo Castillo,Overall fit index,fit,82.3,Weighted composite,82.3,High
+PM-006,Regina Gutierrez,Cognitive ability (ICAR),cognitive,67.0,>= 55,67.0,High
+PM-006,Regina Gutierrez,Personality - Neuroticism,personality,34.5,10 - 40,34.5,High
+PM-006,Regina Gutierrez,Personality - Extraversion,personality,24.1,40 - 75,24.1,Low
+PM-006,Regina Gutierrez,Personality - Openness,personality,72.4,45 - 80,72.4,High
+PM-006,Regina Gutierrez,Personality - Agreeableness,personality,55.2,45 - 85,55.2,High
+PM-006,Regina Gutierrez,Personality - Conscientiousness,personality,89.7,65 - 95,89.7,High
+PM-006,Regina Gutierrez,Integrity (Honesty-Humility),integrity,12.1,>= 65,12.1,Low
+PM-006,Regina Gutierrez,Vocational interests (RIASEC congruence),interests,83.3,ESC-dominant profile,83.3,High
+PM-006,Regina Gutierrez,CV & documentation score,cv,61.8,Education / experience / certifications,61.8,Medium
+PM-006,Regina Gutierrez,Overall fit index,fit,75.4,Weighted composite,75.4,High
+PM-007,Antonia Flores,Cognitive ability (ICAR),cognitive,23.1,>= 55,23.1,Low
+PM-007,Antonia Flores,Personality - Neuroticism,personality,44.8,10 - 40,44.8,Medium
+PM-007,Antonia Flores,Personality - Extraversion,personality,96.6,40 - 75,96.6,Low
+PM-007,Antonia Flores,Personality - Openness,personality,13.8,45 - 80,13.8,Low
+PM-007,Antonia Flores,Personality - Agreeableness,personality,27.6,45 - 85,27.6,Low
+PM-007,Antonia Flores,Personality - Conscientiousness,personality,70.7,65 - 95,70.7,High
+PM-007,Antonia Flores,Integrity (Honesty-Humility),integrity,93.1,>= 65,93.1,High
+PM-007,Antonia Flores,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-007,Antonia Flores,CV & documentation score,cv,73.6,Education / experience / certifications,73.6,Medium
+PM-007,Antonia Flores,Overall fit index,fit,77.6,Weighted composite,77.6,High
+PM-008,Emilio Martinez,Cognitive ability (ICAR),cognitive,33.0,>= 55,33.0,Low
+PM-008,Emilio Martinez,Personality - Neuroticism,personality,50.0,10 - 40,50.0,Medium
+PM-008,Emilio Martinez,Personality - Extraversion,personality,50.0,40 - 75,50.0,High
+PM-008,Emilio Martinez,Personality - Openness,personality,98.3,45 - 80,98.3,Low
+PM-008,Emilio Martinez,Personality - Agreeableness,personality,75.9,45 - 85,75.9,High
+PM-008,Emilio Martinez,Personality - Conscientiousness,personality,96.6,65 - 95,96.6,Medium
+PM-008,Emilio Martinez,Integrity (Honesty-Humility),integrity,75.9,>= 65,75.9,High
+PM-008,Emilio Martinez,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-008,Emilio Martinez,CV & documentation score,cv,75.3,Education / experience / certifications,75.3,High
+PM-008,Emilio Martinez,Overall fit index,fit,86.0,Weighted composite,86.0,High
+PM-009,Clara Romero,Cognitive ability (ICAR),cognitive,9.3,>= 55,9.3,Low
+PM-009,Clara Romero,Personality - Neuroticism,personality,100.0,10 - 40,100.0,Low
+PM-009,Clara Romero,Personality - Extraversion,personality,84.5,40 - 75,84.5,Medium
+PM-009,Clara Romero,Personality - Openness,personality,24.1,45 - 80,24.1,Low
+PM-009,Clara Romero,Personality - Agreeableness,personality,27.6,45 - 85,27.6,Low
+PM-009,Clara Romero,Personality - Conscientiousness,personality,70.7,65 - 95,70.7,High
+PM-009,Clara Romero,Integrity (Honesty-Humility),integrity,93.1,>= 65,93.1,High
+PM-009,Clara Romero,Vocational interests (RIASEC congruence),interests,16.7,ESC-dominant profile,16.7,Low
+PM-009,Clara Romero,CV & documentation score,cv,44.4,Education / experience / certifications,44.4,Low
+PM-009,Clara Romero,Overall fit index,fit,52.1,Weighted composite,52.1,Low
+PM-010,Isabella Rodriguez,Cognitive ability (ICAR),cognitive,9.3,>= 55,9.3,Low
+PM-010,Isabella Rodriguez,Personality - Neuroticism,personality,89.7,10 - 40,89.7,Low
+PM-010,Isabella Rodriguez,Personality - Extraversion,personality,67.2,40 - 75,67.2,High
+PM-010,Isabella Rodriguez,Personality - Openness,personality,91.4,45 - 80,91.4,Medium
+PM-010,Isabella Rodriguez,Personality - Agreeableness,personality,100.0,45 - 85,100.0,Medium
+PM-010,Isabella Rodriguez,Personality - Conscientiousness,personality,50.0,65 - 95,50.0,Medium
+PM-010,Isabella Rodriguez,Integrity (Honesty-Humility),integrity,22.4,>= 65,22.4,Low
+PM-010,Isabella Rodriguez,Vocational interests (RIASEC congruence),interests,50.0,ESC-dominant profile,50.0,Low
+PM-010,Isabella Rodriguez,CV & documentation score,cv,40.7,Education / experience / certifications,40.7,Low
+PM-010,Isabella Rodriguez,Overall fit index,fit,42.8,Weighted composite,42.8,Low
+PM-011,Isabella Fernandez,Cognitive ability (ICAR),cognitive,76.9,>= 55,76.9,High
+PM-011,Isabella Fernandez,Personality - Neuroticism,personality,6.9,10 - 40,6.9,Medium
+PM-011,Isabella Fernandez,Personality - Extraversion,personality,56.9,40 - 75,56.9,High
+PM-011,Isabella Fernandez,Personality - Openness,personality,51.7,45 - 80,51.7,High
+PM-011,Isabella Fernandez,Personality - Agreeableness,personality,39.7,45 - 85,39.7,Medium
+PM-011,Isabella Fernandez,Personality - Conscientiousness,personality,39.7,65 - 95,39.7,Low
+PM-011,Isabella Fernandez,Integrity (Honesty-Humility),integrity,3.4,>= 65,3.4,Low
+PM-011,Isabella Fernandez,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-011,Isabella Fernandez,CV & documentation score,cv,61.8,Education / experience / certifications,61.8,Medium
+PM-011,Isabella Fernandez,Overall fit index,fit,70.9,Weighted composite,70.9,Medium
+PM-012,Joaquin Salazar,Cognitive ability (ICAR),cognitive,67.0,>= 55,67.0,High
+PM-012,Joaquin Salazar,Personality - Neuroticism,personality,65.5,10 - 40,65.5,Low
+PM-012,Joaquin Salazar,Personality - Extraversion,personality,50.0,40 - 75,50.0,High
+PM-012,Joaquin Salazar,Personality - Openness,personality,77.6,45 - 80,77.6,High
+PM-012,Joaquin Salazar,Personality - Agreeableness,personality,86.2,45 - 85,86.2,Medium
+PM-012,Joaquin Salazar,Personality - Conscientiousness,personality,50.0,65 - 95,50.0,Medium
+PM-012,Joaquin Salazar,Integrity (Honesty-Humility),integrity,56.9,>= 65,56.9,Medium
+PM-012,Joaquin Salazar,Vocational interests (RIASEC congruence),interests,16.7,ESC-dominant profile,16.7,Low
+PM-012,Joaquin Salazar,CV & documentation score,cv,61.9,Education / experience / certifications,61.9,Medium
+PM-012,Joaquin Salazar,Overall fit index,fit,73.8,Weighted composite,73.8,High
+PM-013,Fernanda Aguilar,Cognitive ability (ICAR),cognitive,76.9,>= 55,76.9,High
+PM-013,Fernanda Aguilar,Personality - Neuroticism,personality,10.3,10 - 40,10.3,High
+PM-013,Fernanda Aguilar,Personality - Extraversion,personality,43.1,40 - 75,43.1,High
+PM-013,Fernanda Aguilar,Personality - Openness,personality,24.1,45 - 80,24.1,Low
+PM-013,Fernanda Aguilar,Personality - Agreeableness,personality,93.1,45 - 85,93.1,Medium
+PM-013,Fernanda Aguilar,Personality - Conscientiousness,personality,70.7,65 - 95,70.7,High
+PM-013,Fernanda Aguilar,Integrity (Honesty-Humility),integrity,56.9,>= 65,56.9,Medium
+PM-013,Fernanda Aguilar,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-013,Fernanda Aguilar,CV & documentation score,cv,69.3,Education / experience / certifications,69.3,Medium
+PM-013,Fernanda Aguilar,Overall fit index,fit,91.7,Weighted composite,91.7,High
+PM-014,Bruno Nunez,Cognitive ability (ICAR),cognitive,67.0,>= 55,67.0,High
+PM-014,Bruno Nunez,Personality - Neuroticism,personality,41.4,10 - 40,41.4,Medium
+PM-014,Bruno Nunez,Personality - Extraversion,personality,84.5,40 - 75,84.5,Medium
+PM-014,Bruno Nunez,Personality - Openness,personality,84.5,45 - 80,84.5,Medium
+PM-014,Bruno Nunez,Personality - Agreeableness,personality,39.7,45 - 85,39.7,Medium
+PM-014,Bruno Nunez,Personality - Conscientiousness,personality,58.6,65 - 95,58.6,Medium
+PM-014,Bruno Nunez,Integrity (Honesty-Humility),integrity,56.9,>= 65,56.9,Medium
+PM-014,Bruno Nunez,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-014,Bruno Nunez,CV & documentation score,cv,52.1,Education / experience / certifications,52.1,Low
+PM-014,Bruno Nunez,Overall fit index,fit,89.0,Weighted composite,89.0,High
+PM-015,Bruno Castillo,Cognitive ability (ICAR),cognitive,67.0,>= 55,67.0,High
+PM-015,Bruno Castillo,Personality - Neuroticism,personality,17.2,10 - 40,17.2,High
+PM-015,Bruno Castillo,Personality - Extraversion,personality,91.4,40 - 75,91.4,Low
+PM-015,Bruno Castillo,Personality - Openness,personality,98.3,45 - 80,98.3,Low
+PM-015,Bruno Castillo,Personality - Agreeableness,personality,27.6,45 - 85,27.6,Low
+PM-015,Bruno Castillo,Personality - Conscientiousness,personality,39.7,65 - 95,39.7,Low
+PM-015,Bruno Castillo,Integrity (Honesty-Humility),integrity,0.0,>= 65,0.0,Low
+PM-015,Bruno Castillo,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-015,Bruno Castillo,CV & documentation score,cv,63.0,Education / experience / certifications,63.0,Medium
+PM-015,Bruno Castillo,Overall fit index,fit,65.4,Weighted composite,65.4,Medium
+PM-016,Pablo Flores,Cognitive ability (ICAR),cognitive,55.8,>= 55,55.8,Medium
+PM-016,Pablo Flores,Personality - Neuroticism,personality,60.3,10 - 40,60.3,Low
+PM-016,Pablo Flores,Personality - Extraversion,personality,10.3,40 - 75,10.3,Low
+PM-016,Pablo Flores,Personality - Openness,personality,24.1,45 - 80,24.1,Low
+PM-016,Pablo Flores,Personality - Agreeableness,personality,39.7,45 - 85,39.7,Medium
+PM-016,Pablo Flores,Personality - Conscientiousness,personality,3.4,65 - 95,3.4,Low
+PM-016,Pablo Flores,Integrity (Honesty-Humility),integrity,12.1,>= 65,12.1,Low
+PM-016,Pablo Flores,Vocational interests (RIASEC congruence),interests,83.3,ESC-dominant profile,83.3,High
+PM-016,Pablo Flores,CV & documentation score,cv,62.2,Education / experience / certifications,62.2,Medium
+PM-016,Pablo Flores,Overall fit index,fit,57.8,Weighted composite,57.8,Medium
+PM-017,Alejandra Perez,Cognitive ability (ICAR),cognitive,97.2,>= 55,97.2,High
+PM-017,Alejandra Perez,Personality - Neuroticism,personality,0.0,10 - 40,0.0,Medium
+PM-017,Alejandra Perez,Personality - Extraversion,personality,67.2,40 - 75,67.2,High
+PM-017,Alejandra Perez,Personality - Openness,personality,63.8,45 - 80,63.8,High
+PM-017,Alejandra Perez,Personality - Agreeableness,personality,6.9,45 - 85,6.9,Low
+PM-017,Alejandra Perez,Personality - Conscientiousness,personality,25.9,65 - 95,25.9,Low
+PM-017,Alejandra Perez,Integrity (Honesty-Humility),integrity,36.2,>= 65,36.2,Low
+PM-017,Alejandra Perez,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-017,Alejandra Perez,CV & documentation score,cv,69.1,Education / experience / certifications,69.1,Medium
+PM-017,Alejandra Perez,Overall fit index,fit,73.6,Weighted composite,73.6,High
+PM-018,Carolina Mendoza,Cognitive ability (ICAR),cognitive,33.0,>= 55,33.0,Low
+PM-018,Carolina Mendoza,Personality - Neuroticism,personality,81.0,10 - 40,81.0,Low
+PM-018,Carolina Mendoza,Personality - Extraversion,personality,56.9,40 - 75,56.9,High
+PM-018,Carolina Mendoza,Personality - Openness,personality,37.9,45 - 80,37.9,Medium
+PM-018,Carolina Mendoza,Personality - Agreeableness,personality,50.0,45 - 85,50.0,High
+PM-018,Carolina Mendoza,Personality - Conscientiousness,personality,25.9,65 - 95,25.9,Low
+PM-018,Carolina Mendoza,Integrity (Honesty-Humility),integrity,56.9,>= 65,56.9,Medium
+PM-018,Carolina Mendoza,Vocational interests (RIASEC congruence),interests,33.3,ESC-dominant profile,33.3,Low
+PM-018,Carolina Mendoza,CV & documentation score,cv,72.3,Education / experience / certifications,72.3,Medium
+PM-018,Carolina Mendoza,Overall fit index,fit,61.3,Weighted composite,61.3,Medium
+PM-019,Diego Morales,Cognitive ability (ICAR),cognitive,33.0,>= 55,33.0,Low
+PM-019,Diego Morales,Personality - Neuroticism,personality,34.5,10 - 40,34.5,High
+PM-019,Diego Morales,Personality - Extraversion,personality,91.4,40 - 75,91.4,Low
+PM-019,Diego Morales,Personality - Openness,personality,37.9,45 - 80,37.9,Medium
+PM-019,Diego Morales,Personality - Agreeableness,personality,10.3,45 - 85,10.3,Low
+PM-019,Diego Morales,Personality - Conscientiousness,personality,25.9,65 - 95,25.9,Low
+PM-019,Diego Morales,Integrity (Honesty-Humility),integrity,36.2,>= 65,36.2,Low
+PM-019,Diego Morales,Vocational interests (RIASEC congruence),interests,83.3,ESC-dominant profile,83.3,High
+PM-019,Diego Morales,CV & documentation score,cv,71.6,Education / experience / certifications,71.6,Medium
+PM-019,Diego Morales,Overall fit index,fit,62.8,Weighted composite,62.8,Medium
+PM-020,Ricardo Flores,Cognitive ability (ICAR),cognitive,55.8,>= 55,55.8,Medium
+PM-020,Ricardo Flores,Personality - Neuroticism,personality,89.7,10 - 40,89.7,Low
+PM-020,Ricardo Flores,Personality - Extraversion,personality,17.2,40 - 75,17.2,Low
+PM-020,Ricardo Flores,Personality - Openness,personality,6.9,45 - 80,6.9,Low
+PM-020,Ricardo Flores,Personality - Agreeableness,personality,67.2,45 - 85,67.2,High
+PM-020,Ricardo Flores,Personality - Conscientiousness,personality,89.7,65 - 95,89.7,High
+PM-020,Ricardo Flores,Integrity (Honesty-Humility),integrity,93.1,>= 65,93.1,High
+PM-020,Ricardo Flores,Vocational interests (RIASEC congruence),interests,66.7,ESC-dominant profile,66.7,Medium
+PM-020,Ricardo Flores,CV & documentation score,cv,60.5,Education / experience / certifications,60.5,Medium
+PM-020,Ricardo Flores,Overall fit index,fit,76.9,Weighted composite,76.9,High
+PM-021,Valentina Flores,Cognitive ability (ICAR),cognitive,23.1,>= 55,23.1,Low
+PM-021,Valentina Flores,Personality - Neuroticism,personality,70.7,10 - 40,70.7,Low
+PM-021,Valentina Flores,Personality - Extraversion,personality,34.5,40 - 75,34.5,Medium
+PM-021,Valentina Flores,Personality - Openness,personality,84.5,45 - 80,84.5,Medium
+PM-021,Valentina Flores,Personality - Agreeableness,personality,13.8,45 - 85,13.8,Low
+PM-021,Valentina Flores,Personality - Conscientiousness,personality,25.9,65 - 95,25.9,Low
+PM-021,Valentina Flores,Integrity (Honesty-Humility),integrity,75.9,>= 65,75.9,High
+PM-021,Valentina Flores,Vocational interests (RIASEC congruence),interests,83.3,ESC-dominant profile,83.3,High
+PM-021,Valentina Flores,CV & documentation score,cv,64.4,Education / experience / certifications,64.4,Medium
+PM-021,Valentina Flores,Overall fit index,fit,64.3,Weighted composite,64.3,Medium
+PM-022,Regina Romero,Cognitive ability (ICAR),cognitive,9.3,>= 55,9.3,Low
+PM-022,Regina Romero,Personality - Neuroticism,personality,50.0,10 - 40,50.0,Medium
+PM-022,Regina Romero,Personality - Extraversion,personality,20.7,40 - 75,20.7,Low
+PM-022,Regina Romero,Personality - Openness,personality,6.9,45 - 80,6.9,Low
+PM-022,Regina Romero,Personality - Agreeableness,personality,79.3,45 - 85,79.3,High
+PM-022,Regina Romero,Personality - Conscientiousness,personality,58.6,65 - 95,58.6,Medium
+PM-022,Regina Romero,Integrity (Honesty-Humility),integrity,12.1,>= 65,12.1,Low
+PM-022,Regina Romero,Vocational interests (RIASEC congruence),interests,66.7,ESC-dominant profile,66.7,Medium
+PM-022,Regina Romero,CV & documentation score,cv,63.2,Education / experience / certifications,63.2,Medium
+PM-022,Regina Romero,Overall fit index,fit,49.9,Weighted composite,49.9,Low
+PM-023,Gabriela Perez,Cognitive ability (ICAR),cognitive,94.7,>= 55,94.7,High
+PM-023,Gabriela Perez,Personality - Neuroticism,personality,60.3,10 - 40,60.3,Low
+PM-023,Gabriela Perez,Personality - Extraversion,personality,75.9,40 - 75,75.9,Medium
+PM-023,Gabriela Perez,Personality - Openness,personality,63.8,45 - 80,63.8,High
+PM-023,Gabriela Perez,Personality - Agreeableness,personality,19.0,45 - 85,19.0,Low
+PM-023,Gabriela Perez,Personality - Conscientiousness,personality,39.7,65 - 95,39.7,Low
+PM-023,Gabriela Perez,Integrity (Honesty-Humility),integrity,56.9,>= 65,56.9,Medium
+PM-023,Gabriela Perez,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-023,Gabriela Perez,CV & documentation score,cv,66.5,Education / experience / certifications,66.5,Medium
+PM-023,Gabriela Perez,Overall fit index,fit,82.3,Weighted composite,82.3,High
+PM-024,Antonia Salazar,Cognitive ability (ICAR),cognitive,33.0,>= 55,33.0,Low
+PM-024,Antonia Salazar,Personality - Neuroticism,personality,70.7,10 - 40,70.7,Low
+PM-024,Antonia Salazar,Personality - Extraversion,personality,0.0,40 - 75,0.0,Low
+PM-024,Antonia Salazar,Personality - Openness,personality,63.8,45 - 80,63.8,High
+PM-024,Antonia Salazar,Personality - Agreeableness,personality,86.2,45 - 85,86.2,Medium
+PM-024,Antonia Salazar,Personality - Conscientiousness,personality,12.1,65 - 95,12.1,Low
+PM-024,Antonia Salazar,Integrity (Honesty-Humility),integrity,22.4,>= 65,22.4,Low
+PM-024,Antonia Salazar,Vocational interests (RIASEC congruence),interests,50.0,ESC-dominant profile,50.0,Low
+PM-024,Antonia Salazar,CV & documentation score,cv,56.5,Education / experience / certifications,56.5,Medium
+PM-024,Antonia Salazar,Overall fit index,fit,46.6,Weighted composite,46.6,Low
+PM-025,Ivan Ortiz,Cognitive ability (ICAR),cognitive,2.8,>= 55,2.8,Low
+PM-025,Ivan Ortiz,Personality - Neuroticism,personality,55.2,10 - 40,55.2,Low
+PM-025,Ivan Ortiz,Personality - Extraversion,personality,79.3,40 - 75,79.3,Medium
+PM-025,Ivan Ortiz,Personality - Openness,personality,24.1,45 - 80,24.1,Low
+PM-025,Ivan Ortiz,Personality - Agreeableness,personality,96.6,45 - 85,96.6,Medium
+PM-025,Ivan Ortiz,Personality - Conscientiousness,personality,12.1,65 - 95,12.1,Low
+PM-025,Ivan Ortiz,Integrity (Honesty-Humility),integrity,36.2,>= 65,36.2,Low
+PM-025,Ivan Ortiz,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-025,Ivan Ortiz,CV & documentation score,cv,75.2,Education / experience / certifications,75.2,High
+PM-025,Ivan Ortiz,Overall fit index,fit,53.2,Weighted composite,53.2,Low
+PM-026,Emilio Fernandez,Cognitive ability (ICAR),cognitive,55.8,>= 55,55.8,Medium
+PM-026,Emilio Fernandez,Personality - Neuroticism,personality,34.5,10 - 40,34.5,High
+PM-026,Emilio Fernandez,Personality - Extraversion,personality,10.3,40 - 75,10.3,Low
+PM-026,Emilio Fernandez,Personality - Openness,personality,24.1,45 - 80,24.1,Low
+PM-026,Emilio Fernandez,Personality - Agreeableness,personality,72.4,45 - 85,72.4,High
+PM-026,Emilio Fernandez,Personality - Conscientiousness,personality,12.1,65 - 95,12.1,Low
+PM-026,Emilio Fernandez,Integrity (Honesty-Humility),integrity,75.9,>= 65,75.9,High
+PM-026,Emilio Fernandez,Vocational interests (RIASEC congruence),interests,50.0,ESC-dominant profile,50.0,Low
+PM-026,Emilio Fernandez,CV & documentation score,cv,65.5,Education / experience / certifications,65.5,Medium
+PM-026,Emilio Fernandez,Overall fit index,fit,73.4,Weighted composite,73.4,High
+PM-027,Santiago Ortiz,Cognitive ability (ICAR),cognitive,44.2,>= 55,44.2,Low
+PM-027,Santiago Ortiz,Personality - Neuroticism,personality,75.9,10 - 40,75.9,Low
+PM-027,Santiago Ortiz,Personality - Extraversion,personality,43.1,40 - 75,43.1,High
+PM-027,Santiago Ortiz,Personality - Openness,personality,51.7,45 - 80,51.7,High
+PM-027,Santiago Ortiz,Personality - Agreeableness,personality,39.7,45 - 85,39.7,Medium
+PM-027,Santiago Ortiz,Personality - Conscientiousness,personality,70.7,65 - 95,70.7,High
+PM-027,Santiago Ortiz,Integrity (Honesty-Humility),integrity,12.1,>= 65,12.1,Low
+PM-027,Santiago Ortiz,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-027,Santiago Ortiz,CV & documentation score,cv,80.1,Education / experience / certifications,80.1,High
+PM-027,Santiago Ortiz,Overall fit index,fit,71.2,Weighted composite,71.2,Medium
+PM-028,Mateo Morales,Cognitive ability (ICAR),cognitive,55.8,>= 55,55.8,Medium
+PM-028,Mateo Morales,Personality - Neuroticism,personality,25.9,10 - 40,25.9,High
+PM-028,Mateo Morales,Personality - Extraversion,personality,67.2,40 - 75,67.2,High
+PM-028,Mateo Morales,Personality - Openness,personality,37.9,45 - 80,37.9,Medium
+PM-028,Mateo Morales,Personality - Agreeableness,personality,19.0,45 - 85,19.0,Low
+PM-028,Mateo Morales,Personality - Conscientiousness,personality,39.7,65 - 95,39.7,Low
+PM-028,Mateo Morales,Integrity (Honesty-Humility),integrity,36.2,>= 65,36.2,Low
+PM-028,Mateo Morales,Vocational interests (RIASEC congruence),interests,100.0,ESC-dominant profile,100.0,High
+PM-028,Mateo Morales,CV & documentation score,cv,52.1,Education / experience / certifications,52.1,Low
+PM-028,Mateo Morales,Overall fit index,fit,77.4,Weighted composite,77.4,High
+PM-029,Ricardo Perez,Cognitive ability (ICAR),cognitive,15.2,>= 55,15.2,Low
+PM-029,Ricardo Perez,Personality - Neuroticism,personality,81.0,10 - 40,81.0,Low
+PM-029,Ricardo Perez,Personality - Extraversion,personality,27.6,40 - 75,27.6,Medium
+PM-029,Ricardo Perez,Personality - Openness,personality,77.6,45 - 80,77.6,High
+PM-029,Ricardo Perez,Personality - Agreeableness,personality,3.4,45 - 85,3.4,Low
+PM-029,Ricardo Perez,Personality - Conscientiousness,personality,100.0,65 - 95,100.0,Medium
+PM-029,Ricardo Perez,Integrity (Honesty-Humility),integrity,56.9,>= 65,56.9,Medium
+PM-029,Ricardo Perez,Vocational interests (RIASEC congruence),interests,33.3,ESC-dominant profile,33.3,Low
+PM-029,Ricardo Perez,CV & documentation score,cv,50.4,Education / experience / certifications,50.4,Low
+PM-029,Ricardo Perez,Overall fit index,fit,53.6,Weighted composite,53.6,Low
+PM-030,Nicolas Gomez,Cognitive ability (ICAR),cognitive,94.7,>= 55,94.7,High
+PM-030,Nicolas Gomez,Personality - Neuroticism,personality,3.4,10 - 40,3.4,Medium
+PM-030,Nicolas Gomez,Personality - Extraversion,personality,67.2,40 - 75,67.2,High
+PM-030,Nicolas Gomez,Personality - Openness,personality,0.0,45 - 80,0.0,Low
+PM-030,Nicolas Gomez,Personality - Agreeableness,personality,60.3,45 - 85,60.3,High
+PM-030,Nicolas Gomez,Personality - Conscientiousness,personality,89.7,65 - 95,89.7,High
+PM-030,Nicolas Gomez,Integrity (Honesty-Humility),integrity,93.1,>= 65,93.1,High
+PM-030,Nicolas Gomez,Vocational interests (RIASEC congruence),interests,83.3,ESC-dominant profile,83.3,High
+PM-030,Nicolas Gomez,CV & documentation score,cv,70.5,Education / experience / certifications,70.5,Medium
+PM-030,Nicolas Gomez,Overall fit index,fit,89.8,Weighted composite,89.8,High
