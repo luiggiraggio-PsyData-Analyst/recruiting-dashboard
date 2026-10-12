@@ -354,24 +354,33 @@ def shortlist_reason(angle, r, n):
 
 
 PAGE_LABELS = ["Overview", "Candidate detail", "Shortlist"]
+PAGE_OPTS = ["1 · Overview", "2 · Candidate detail", "3 · Shortlist"]
+
+
+def _goto(idx):
+    st.session_state["nav_pills"] = PAGE_OPTS[idx]
+    st.session_state.page = idx
+
+
+def _on_pill():
+    st.session_state.page = PAGE_OPTS.index(st.session_state["nav_pills"])
 
 
 def paginate():
     if "page" not in st.session_state:
         st.session_state.page = 0
-    cur = st.session_state.page
+    if "nav_pills" not in st.session_state:
+        st.session_state["nav_pills"] = PAGE_OPTS[st.session_state.page]
     st.markdown('<div class="app-hdr">Recruiting Dashboard · Project Manager · Meridian Digital</div>',
                 unsafe_allow_html=True)
-    c_prev, c1, c2, c3, c_next = st.columns([1, 2, 2, 2, 1])
-    if c_prev.button("◀ Prev", key="p_prev", width="stretch"):
-        st.session_state.page = (cur - 1) % 3
-    for idx, (col, lab) in enumerate(zip([c1, c2, c3],
-                                         ["1 · Overview", "2 · Candidate detail", "3 · Shortlist"])):
-        if col.button(lab, key=f"p_{idx}", width="stretch",
-                      type="primary" if idx == cur else "secondary"):
-            st.session_state.page = idx
-    if c_next.button("Next ▶", key="p_next", width="stretch"):
-        st.session_state.page = (cur + 1) % 3
+    c_prev, c_pills, c_next = st.columns([1, 6, 1])
+    c_prev.button("◀ Prev", key="p_prev", width="stretch", on_click=_goto,
+                  args=((st.session_state.page - 1) % 3,))
+    c_next.button("Next ▶", key="p_next", width="stretch", on_click=_goto,
+                  args=((st.session_state.page + 1) % 3,))
+    with c_pills:
+        st.pills("Section", PAGE_OPTS, key="nav_pills", selection_mode="single",
+                 label_visibility="collapsed", width="stretch", on_change=_on_pill)
     page = st.session_state.page
     st.markdown(f'<div class="page-hdr">PAGE {page + 1} / 3 — {PAGE_LABELS[page].upper()}</div>',
                 unsafe_allow_html=True)
