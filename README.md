@@ -1,9 +1,9 @@
 # Recruiting Dashboard — Project Manager Selection Process
 
-An end-to-end candidate evaluation and selection dashboard for a Project Manager role in a digital marketing
-agency, built entirely with free and open-source tools. It demonstrates the full pipeline of a modern,
-evidence-based hiring process: document/CV review, four psychometric instruments, structured interviews,
-assessment center, a weighted **fit index** and an interactive decision dashboard.
+An end-to-end candidate evaluation and selection dashboard for a Project Manager role at **Meridian Digital** (a
+fictional digital marketing agency), built entirely with free and open-source tools. It demonstrates the full
+pipeline of a modern, evidence-based hiring process: document/CV review, four psychometric instruments,
+structured interviews, assessment center, a weighted **fit index** and an interactive decision dashboard.
 
 > This repository uses a hypothetical applicant dataset generated for portfolio/demonstration purposes; the
 > methodology, instruments, scoring rules and target profile follow the published open-access documentation cited

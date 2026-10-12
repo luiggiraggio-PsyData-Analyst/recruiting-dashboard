@@ -41,6 +41,10 @@ st.markdown(
     .rec-card {border: 1px solid #111111; padding: 14px 16px; margin-bottom: 12px; background: #FFFFFF;}
     .rec-angle {font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: #777777;}
     .shortlist-title {font-size: 1rem; color: #111111;}
+    .app-hdr {font-size: .78rem; letter-spacing: .22em; color: #FFFFFF; background: #111111;
+              padding: 8px 14px; text-transform: uppercase; margin-bottom: 6px;}
+    .page-hdr {font-size: 1.05rem; letter-spacing: .12em; color: #111111; border: 1px solid #111111;
+               padding: 8px 14px; margin: 4px 0 14px 0; background: #FFFFFF;}
     </style>
     """,
     unsafe_allow_html=True,
@@ -349,14 +353,39 @@ def shortlist_reason(angle, r, n):
             "12-24 months while delivering immediately.")
 
 
+PAGE_LABELS = ["Overview", "Candidate detail", "Shortlist"]
+
+
+def paginate():
+    if "page" not in st.session_state:
+        st.session_state.page = 0
+    cur = st.session_state.page
+    st.markdown('<div class="app-hdr">Recruiting Dashboard · Project Manager · Meridian Digital</div>',
+                unsafe_allow_html=True)
+    c_prev, c1, c2, c3, c_next = st.columns([1, 2, 2, 2, 1])
+    if c_prev.button("◀ Prev", key="p_prev", width="stretch"):
+        st.session_state.page = (cur - 1) % 3
+    for idx, (col, lab) in enumerate(zip([c1, c2, c3],
+                                         ["1 · Overview", "2 · Candidate detail", "3 · Shortlist"])):
+        if col.button(lab, key=f"p_{idx}", width="stretch",
+                      type="primary" if idx == cur else "secondary"):
+            st.session_state.page = idx
+    if c_next.button("Next ▶", key="p_next", width="stretch"):
+        st.session_state.page = (cur + 1) % 3
+    page = st.session_state.page
+    st.markdown(f'<div class="page-hdr">PAGE {page + 1} / 3 — {PAGE_LABELS[page].upper()}</div>',
+                unsafe_allow_html=True)
+    return page
+
+
 def main():
     full, indicators, facets, domains, narr, interests, profile = load_data()
-    tabs = st.tabs(["Overview", "Candidate detail", "Shortlist"])
-    with tabs[0]:
+    page = paginate()
+    if page == 0:
         overview_page(full, indicators, domains, interests, profile)
-    with tabs[1]:
+    elif page == 1:
         candidate_page(full, indicators, facets, narr, interests, profile)
-    with tabs[2]:
+    else:
         shortlist_page(full, narr, profile)
 
 
